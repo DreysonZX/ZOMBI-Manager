@@ -1,0 +1,2071 @@
+[Message]Binarizing wor F6000AA9 (/07 Levels/_kit/_kit_PC/_kit_PC_character/_kit_PC_character.wor)...
+[Message]0 errors, 0 warnings
+Wor F6000AA9 binarized successfully.
+
+[Message]Binarizing wor 87D13613 (/08 Cinematics/GENERIQUES/Cine_Loading/Cine_Loading.wor)...
+[Message]0 errors, 0 warnings
+Wor 87D13613 binarized successfully.
+
+[Message]Binarizing wor 44D02A7A (/07 Levels/_kit/_kit_fixe/_kit_fixe.wor)...
+[Message]0 errors, 0 warnings
+Wor 44D02A7A binarized successfully.
+
+[Message]Binarizing wor 44D00C81 (/07 Levels/_kit/_kit_VFX/_kit_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 44D00C81 binarized successfully.
+
+[Message]Binarizing wor F6000A09 (/07 Levels/_kit/_kit_interne/_kit_interne.wor)...
+[Message]0 errors, 0 warnings
+Wor F6000A09 binarized successfully.
+
+[Message]Binarizing wor 06D0FC5C (/07 Levels/_kit/_kit_VFX/_kit_VFX_camera_rain/_kit_VFX_camera_rain.wor)...
+[Message]0 errors, 0 warnings
+Wor 06D0FC5C binarized successfully.
+
+[Message]Binarizing wor 38D0201D (/07 Levels/_kit/_kit_PC/_kit_PC_Puppet_Casual/_kit_PC_Puppet_Casual.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D0201D binarized successfully.
+
+[Message]Binarizing wor F6000AAC (/07 Levels/_kit/_kit_PC/_kit_PC_weapons/_kit_PC_weapons.wor)...
+[Message]0 errors, 0 warnings
+Wor F6000AAC binarized successfully.
+
+[Message]Binarizing wor 5AD02962 (/07 Levels/_kit/_kit_projectiles_effects/_kit_projectiles_effects.wor)...
+[Message]0 errors, 0 warnings
+Wor 5AD02962 binarized successfully.
+
+[Message]Binarizing wor 06D02352 (/07 Levels/_kit/_kit_VFX/_kit_VFX_weapons/_kit_VFX_weapons.wor)...
+[Message]0 errors, 0 warnings
+Wor 06D02352 binarized successfully.
+
+[Message]Binarizing wor 06D023A3 (/07 Levels/_kit/_kit_VFX/_kit_VFX_objects/_kit_VFX_objects.wor)...
+[Message]0 errors, 0 warnings
+Wor 06D023A3 binarized successfully.
+
+[Message]Binarizing wor 06D02497 (/07 Levels/_kit/_kit_VFX/_kit_VFX_characters/_kit_VFX_characters.wor)...
+[Message]0 errors, 0 warnings
+Wor 06D02497 binarized successfully.
+
+[Message]Binarizing wor F6000EF3 (/07 Levels/_kit/_kit_NPC/_kit_NPC_rabbit/_kit_NPC_rabbit.wor)...
+[Message]0 errors, 0 warnings
+Wor F6000EF3 binarized successfully.
+
+[Message]Binarizing wor 95D00119 (/07 Levels/_kit/_kit_RTS/_kit_RTS_Objects/_kit_RTS_Objects.wor)...
+[Message]0 errors, 0 warnings
+Wor 95D00119 binarized successfully.
+
+[Message]Binarizing wor F6000A47 (/07 Levels/_kit/_kit_NPC/_kit_NPC.wor)...
+[Message]0 errors, 0 warnings
+Wor F6000A47 binarized successfully.
+
+[Message]Binarizing wor 080459F4 (/07 Levels/_kit/_kit_RDP/_kit_RDP.wor)...
+[Message]0 errors, 0 warnings
+Wor 080459F4 binarized successfully.
+
+[Message]Binarizing wor F6000A56 (/07 Levels/_kit/_kit_sound/_kit_sound.wor)...
+[Message]0 errors, 0 warnings
+Wor F6000A56 binarized successfully.
+
+[Message]Binarizing wor 5AD03F26 (/07 Levels/_kit/_kit_PC/_kit_PC_Pickable/_kit_PC_Pickable.wor)...
+[Message]0 errors, 0 warnings
+Wor 5AD03F26 binarized successfully.
+
+[Message]Binarizing wor ADD09BF6 (/MAPS/SafeHouse/SafeHouse_Common/SafeHouse_Common.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD09BF6 binarized successfully.
+
+[Message]Binarizing wor ADD0ED19 (/MAPS/SafeHouse/SafeHouse_Room/MAP_Topo/MSafeHouseRo_Topo_LA/MSafeHouseRo_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD0ED19 binarized successfully.
+
+[Message]Binarizing wor ADD0D640 (/MAPS/SafeHouse/SafeHouse_Room/MAP_Topo/MSafeHouseRo_Topo_LGT/MSafeHouseRo_Topo_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD0D640 binarized successfully.
+
+[Message]Binarizing wor ADD0D606 (/MAPS/SafeHouse/SafeHouse_Room/MAP_Topo/MSafeHouseRo_Topo_SND/MSafeHouseRo_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD0D606 binarized successfully.
+
+[Message]Binarizing wor ADD0D5C4 (/MAPS/SafeHouse/SafeHouse_Room/MAP_Topo/MSafeHouseRo_Topo_VFX/MSafeHouseRo_Topo_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD0D5C4 binarized successfully.
+
+[Message]Binarizing wor ADD10603 (/MAPS/SafeHouse/SafeHouse_Room/MAP_Topo/MSafeHouseRo_Topo_LD/MSafeHouseRo_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD10603 binarized successfully.
+
+[Message]Binarizing wor F60011B4 (/07 Levels/_kit/MAP_kit/MAP_kit.wor)...
+[Message]0 errors, 0 warnings
+Wor F60011B4 binarized successfully.
+
+[Message]Binarizing wor 5AD05ACD (/07 Levels/_kit/_kit_GPE_AnimalResource/_kit_GPE_AnimalResource.wor)...
+[Message]0 errors, 0 warnings
+Wor 5AD05ACD binarized successfully.
+
+[Message]Binarizing wor 20004E8E (/08 Cinematics/GENERIQUES/CSewers_ELLIPSE_CINE/Sewers_ELLIPSE_RTC_CINE/Sewers_ELLIPSE_RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 20004E8E binarized successfully.
+
+[Message]Binarizing wor 96D0155C (/07 Levels/EngineProg/Zombification/Zombification.wor)...
+[Message]0 errors, 0 warnings
+Wor 96D0155C binarized successfully.
+
+[Message]Binarizing wor 5800AB09 (/07 Levels/VFX/09_Test_Menu/09_Test_Menu.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800AB09 binarized successfully.
+
+[Message]Binarizing wor 9CD01317 (/07 Levels/VFX/09_Test_Menu_CINE/09_Test_Menu_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 9CD01317 binarized successfully.
+
+[Message]Binarizing wor 44D02A7D (/07 Levels/_kit/_kit_outgame/_kit_outgame.wor)...
+[Message]0 errors, 0 warnings
+Wor 44D02A7D binarized successfully.
+
+[Message]Binarizing wor 9CD00AB2 (/08 Cinematics/INTRO/INTRO.wor)...
+[Message]0 errors, 0 warnings
+Wor 9CD00AB2 binarized successfully.
+
+[Message]Binarizing wor 38D02334 (/07 Levels/_kit/_kit_PC/_kit_PC_Puppet_BeefEater/_kit_PC_Puppet_BeefEater.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D02334 binarized successfully.
+
+[Message]Binarizing wor 38D022B7 (/07 Levels/_kit/_kit_PC/_kit_PC_Puppet_Butler/_kit_PC_Puppet_Butler.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D022B7 binarized successfully.
+
+[Message]Binarizing wor 38D023ED (/07 Levels/_kit/_kit_PC/_kit_PC_Puppet_Chav/_kit_PC_Puppet_Chav.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D023ED binarized successfully.
+
+[Message]Binarizing wor 38D022DA (/07 Levels/_kit/_kit_PC/_kit_PC_Puppet_Cook/_kit_PC_Puppet_Cook.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D022DA binarized successfully.
+
+[Message]Binarizing wor 38D02374 (/07 Levels/_kit/_kit_PC/_kit_PC_Puppet_Cop/_kit_PC_Puppet_Cop.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D02374 binarized successfully.
+
+[Message]Binarizing wor 38D02530 (/07 Levels/_kit/_kit_PC/_kit_PC_Puppet_Military/_kit_PC_Puppet_Military.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D02530 binarized successfully.
+
+[Message]Binarizing wor 38D02564 (/07 Levels/_kit/_kit_PC/_kit_PC_Puppet_Rotten/_kit_PC_Puppet_Rotten.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D02564 binarized successfully.
+
+[Message]Binarizing wor 38D022F9 (/07 Levels/_kit/_kit_PC/_kit_PC_Puppet_ScotGuard/_kit_PC_Puppet_ScotGuard.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D022F9 binarized successfully.
+
+[Message]Binarizing wor 38D023BB (/07 Levels/_kit/_kit_PC/_kit_PC_Puppet_Trader/_kit_PC_Puppet_Trader.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D023BB binarized successfully.
+
+[Message]Binarizing wor 38D0228C (/07 Levels/_kit/_kit_NPC/_kit_Zombie_Accessories/_kit_Zombie_Accessories.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D0228C binarized successfully.
+
+[Message]Binarizing wor 38D018BF (/07 Levels/_kit/_kit_NPC/_kit_Zombie_Heads/_kit_Zombie_Heads.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D018BF binarized successfully.
+
+[Message]Binarizing wor 38D0261A (/07 Levels/_kit/_kit_NPC/_kit_Zombie_Fixed_Part_Puppet/_kit_Zombie_Fixed_Part_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D0261A binarized successfully.
+
+[Message]Binarizing wor 38D0197F (/07 Levels/_kit/_kit_NPC/_kit_Zombie_Player_Color_Mat_MNG/_kit_Zombie_Player_Color_Mat_MNG.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D0197F binarized successfully.
+
+[Message]Binarizing wor 44D05B5A (/07 Levels/_kit/_kit_NPC/_kit_Zombie_Armored_Puppet/_kit_Zombie_Armored_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 44D05B5A binarized successfully.
+
+[Message]Binarizing wor C5002245 (/07 Levels/_kit/_kit_NPC/_kit_Zombie_Butler_Puppet/_kit_Zombie_Butler_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor C5002245 binarized successfully.
+
+[Message]Binarizing wor C5002250 (/07 Levels/_kit/_kit_NPC/_kit_Zombie_Cook_Puppet/_kit_Zombie_Cook_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor C5002250 binarized successfully.
+
+[Message]Binarizing wor 44D05B6A (/07 Levels/_kit/_kit_NPC/_kit_Zombie_Explosif_Puppet/_kit_Zombie_Explosif_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 44D05B6A binarized successfully.
+
+[Message]Binarizing wor 44D05B72 (/07 Levels/_kit/_kit_NPC/_kit_Zombie_Military_Puppet/_kit_Zombie_Military_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 44D05B72 binarized successfully.
+
+[Message]Binarizing wor 38D02611 (/07 Levels/_kit/_kit_NPC/_kit_Zombie_Nurse_Puppet/_kit_Zombie_Nurse_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D02611 binarized successfully.
+
+[Message]Binarizing wor 38D0219C (/07 Levels/_kit/_kit_NPC/_kit_Zombie_OmegaGuard_Puppet/_kit_Zombie_OmegaGuard_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D0219C binarized successfully.
+
+[Message]Binarizing wor 38D021AA (/07 Levels/_kit/_kit_NPC/_kit_Zombie_OmegaMedic_Puppet/_kit_Zombie_OmegaMedic_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D021AA binarized successfully.
+
+[Message]Binarizing wor 38D02505 (/07 Levels/_kit/_kit_NPC/_kit_Zombie_Rotten_Puppet/_kit_Zombie_Rotten_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D02505 binarized successfully.
+
+[Message]Binarizing wor 44D05B7A (/07 Levels/_kit/_kit_NPC/_kit_Zombie_Spitter_Puppet/_kit_Zombie_Spitter_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 44D05B7A binarized successfully.
+
+[Message]Binarizing wor 38D0193D (/07 Levels/_kit/_kit_NPC/_kit_Zombie_Trader_Puppet/_kit_Zombie_Trader_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D0193D binarized successfully.
+
+[Message]Binarizing wor E6D050F8 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_Topo/MBukPaBH_Topo_SECTO/MBukPaBH_Topo_SECTO.wor)...
+[Message]0 errors, 0 warnings
+Wor E6D050F8 binarized successfully.
+
+[Message]Binarizing wor E6D0584B (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_Topo/MBukPaBH_GEN/MBukPaBH_GEN.wor)...
+[Message]0 errors, 0 warnings
+Wor E6D0584B binarized successfully.
+
+[Message]Binarizing wor 91D023EE (/MAPS/Buckingham/Buckingham_Common/Buckingham_CommonBunker_SND/Buckingham_CommonBunker_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D023EE binarized successfully.
+
+[Message]Binarizing wor ADD097AA (/MAPS/Buckingham/Buckingham_Common/Buckingham_CommonBunker/Buckingham_CommonBunker.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD097AA binarized successfully.
+
+[Message]Binarizing wor 91D022B7 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_Missions/M05_BreachBunkerToLoot/MBukPaBH_M05_BreachBunkerToLoot_SND/MBukPaBH_M05_BreachBunkerToLoot_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D022B7 binarized successfully.
+
+[Message]Binarizing wor ADD11C6E (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_Missions/M05_BreachBunkerToLoot/MBukPaBH_M05_BreachBunkerToLoot_LD/MBukPaBH_M05_BreachBunkerToLoot_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11C6E binarized successfully.
+
+[Message]Binarizing wor AFD0DFF0 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_Navmesh_AvantM15/MAP_Navmesh_AvantM15.wor)...
+[Message]0 errors, 0 warnings
+Wor AFD0DFF0 binarized successfully.
+
+[Message]Binarizing wor 87D11305 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_Missions/Buckingham_BunkerHUB_RTC_CINE/Buckingham_BunkerHUB_RoomGuard_CINE/Buckingham_BunkerHUB_RoomGuard_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 87D11305 binarized successfully.
+
+[Message]Binarizing wor ADD18E34 (/MAPS/Buckingham/Buckingham_BunkerDocLab/MAP_Topo/MBukPaBDL_Topo_LA/MBukPaBDL_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD18E34 binarized successfully.
+
+[Message]Binarizing wor 91D00741 (/MAPS/Buckingham/Buckingham_BunkerDocLab/MAP_Topo/MBukPaBDL_Topo_SND/MBukPaBDL_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D00741 binarized successfully.
+
+[Message]Binarizing wor ADD11BBD (/MAPS/Buckingham/Buckingham_BunkerDocLab/MAP_Topo/MBukPaBDL_Topo_LD/MBukPaBDL_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11BBD binarized successfully.
+
+[Message]Binarizing wor 5800B405 (/MAPS/Buckingham/Buckingham_BunkerDocLab/MAP_Topo/MBukPaBDL_Topo_VFX/MBukPaBDL_Topo_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800B405 binarized successfully.
+
+[Message]Binarizing wor 7DD05AC3 (/MAPS/Buckingham/Buckingham_BunkerDocLab/MAP_Topo/MBukPaBDL_Topo_LGT/MBukPaBDL_Topo_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD05AC3 binarized successfully.
+
+[Message]Binarizing wor CE900ADC (/MAPS/Buckingham/Buckingham_BunkerDocLab/MAP_TopoSAS/TopoSASS/MBukPaBDL_TopoSASS_SND/MBukPaBDL_TopoSASS_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE900ADC binarized successfully.
+
+[Message]Binarizing wor E6D05064 (/MAPS/Buckingham/Buckingham_BunkerDocLab/MAP_TopoSAS/TopoSASS/MBukPaBDL_TopoSASS_LD/MBukPaBDL_TopoSASS_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor E6D05064 binarized successfully.
+
+[Message]Binarizing wor 7DD05507 (/MAPS/Buckingham/Buckingham_BunkerDocLab/MAP_TopoSAS/TopoSASS/MBukPaBDL_TopoSASS_LGT/MBukPaBDL_TopoSASS_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD05507 binarized successfully.
+
+[Message]Binarizing wor E6D05B48 (/MAPS/Buckingham/Buckingham_BunkerDocLab/MAP_TopoSAS/TopoSASS/MBukPaBDL_TopoSASS_LA/MBukPaBDL_TopoSASS_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor E6D05B48 binarized successfully.
+
+[Message]Binarizing wor ADD16CB5 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_Topo/MBukPaBH_Topo_LA/MBukPaBH_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD16CB5 binarized successfully.
+
+[Message]Binarizing wor 68063E1B (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_Topo/MBukPaBH_Topo_LGT/MBukPaBH_Topo_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 68063E1B binarized successfully.
+
+[Message]Binarizing wor 4B90014A (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_Topo/MBukPaBH_Topo_VFX/MBukPaBH_Topo_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 4B90014A binarized successfully.
+
+[Message]Binarizing wor 91D00744 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_Topo/MBukPaBH_Topo_SND/MBukPaBH_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D00744 binarized successfully.
+
+[Message]Binarizing wor ADD11111 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_Topo/MBukPaBH_Topo_LD/MBukPaBH_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11111 binarized successfully.
+
+[Message]Binarizing wor 91D022DE (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_Missions/M06_FirstSample/MBukPaBH_M06_FirstSample_SND/MBukPaBH_M06_FirstSample_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D022DE binarized successfully.
+
+[Message]Binarizing wor ADD11D82 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_Missions/M06_FirstSample/MBukPaBH_M06_FirstSample_LD/MBukPaBH_M06_FirstSample_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11D82 binarized successfully.
+
+[Message]Binarizing wor 9D900984 (/MAPS/Buckingham/Buckingham_BunkerDocLab/MAP_Missions/CBukBunker_Doc_RTC_CINE/CBukBunker_Doc_RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 9D900984 binarized successfully.
+
+[Message]Binarizing wor 9D900A92 (/MAPS/Buckingham/Buckingham_BunkerDocLab/MAP_Missions/CBukBunker_Doc02_RTC_CINE/CBukBunker_Doc02_RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 9D900A92 binarized successfully.
+
+[Message]Binarizing wor A6D02E26 (/MAPS/Buckingham/Buckingham_BunkerDocLab/MAP_Missions/CBukBunker_DocPiqure_CINE/CBukBunker_DocPiqure_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor A6D02E26 binarized successfully.
+
+[Message]Binarizing wor 91D01FA6 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_TopoSAS/TopoSAS1/MBukPaBH_TopoSAS1_SND/MBukPaBH_TopoSAS1_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D01FA6 binarized successfully.
+
+[Message]Binarizing wor 7D9055AA (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_TopoSAS/TopoSAS1/MBukPaBH_TopoSAS1_LGT_bis/MBukPaBH_TopoSAS1_LGT_bis.wor)...
+[Message]0 errors, 0 warnings
+Wor 7D9055AA binarized successfully.
+
+[Message]Binarizing wor ADD11188 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_TopoSAS/TopoSAS1/MBukPaBH_TopoSAS1_LD/MBukPaBH_TopoSAS1_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11188 binarized successfully.
+
+[Message]Binarizing wor E6D05B4E (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_TopoSAS/TopoSAS1/MBukPaBH_TopoSAS1_LA/MBukPaBH_TopoSAS1_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor E6D05B4E binarized successfully.
+
+[Message]Binarizing wor CE900AEC (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_TopoSAS/TopoSAS2/MBukPaBH_TopoSAS2_SND/MBukPaBH_TopoSAS2_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE900AEC binarized successfully.
+
+[Message]Binarizing wor ADD111B7 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_TopoSAS/TopoSAS2/MBukPaBH_TopoSAS2_LD/MBukPaBH_TopoSAS2_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD111B7 binarized successfully.
+
+[Message]Binarizing wor 7D9049F4 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_TopoSAS/TopoSAS2/MBukPaBH_TopoSAS2_LGT/MBrkLnRF_TopoSAS2_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7D9049F4 binarized successfully.
+
+[Message]Binarizing wor 5800C47C (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_TopoSAS/TopoSAS2/MBukPaBH_TopoSAS2_VFX/MBukPaBH_TopoSAS2_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C47C binarized successfully.
+
+[Message]Binarizing wor E6D05B54 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_TopoSAS/TopoSAS2/MBukPaBH_TopoSAS2_LA/MBukPaBH_TopoSAS2_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor E6D05B54 binarized successfully.
+
+[Message]Binarizing wor ADD11244 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_TopoSAS/TopoSAS3/MBukPaBH_TopoSAS3_LD/MBukPaBH_TopoSAS3_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11244 binarized successfully.
+
+[Message]Binarizing wor 91D02483 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_TopoSAS/TopoSAS3/MBukPaBH_TopoSAS3_SND/MBukPaBH_TopoSAS3_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D02483 binarized successfully.
+
+[Message]Binarizing wor 5800C497 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_TopoSAS/TopoSAS3/MBukPaBH_TopoSAS3_VFX/MBukPaBH_TopoSAS3_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C497 binarized successfully.
+
+[Message]Binarizing wor 7DD05514 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_TopoSAS/TopoSAS3/MBukPaBH_TopoSAS3_LGT/MBukPaBH_TopoSAS3_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD05514 binarized successfully.
+
+[Message]Binarizing wor ADD12C85 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_TopoSAS/TopoSASshelter/MBukPaBH_TopoSASshelter_LD/MBukPaBH_TopoSASshelter_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD12C85 binarized successfully.
+
+[Message]Binarizing wor 7DD05518 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_TopoSAS/TopoSASshelter/MBukPaBH_TopoSASshelter_LGT/MBukPaBH_TopoSASshelter_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD05518 binarized successfully.
+
+[Message]Binarizing wor 87D11B8D (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_Missions/Buckingham_BunkerHUB_RTC_CINE/Buckingham_BunkerHUB_Shelter_CINE/Buckingham_BunkerHUB_Shelter_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 87D11B8D binarized successfully.
+
+[Message]Binarizing wor 91D00747 (/MAPS/Buckingham/Buckingham_BunkerLabo/MAP_Topo/MBukPaBL_Topo_SND/MBukPaBL_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D00747 binarized successfully.
+
+[Message]Binarizing wor ADD18E3B (/MAPS/Buckingham/Buckingham_BunkerLabo/MAP_Topo/MBukPaBL_Topo_LA/MBukPaBL_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD18E3B binarized successfully.
+
+[Message]Binarizing wor ADD11BED (/MAPS/Buckingham/Buckingham_BunkerLabo/MAP_Topo/MBukPaBL_Topo_LD/MBukPaBL_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11BED binarized successfully.
+
+[Message]Binarizing wor 5800B408 (/MAPS/Buckingham/Buckingham_BunkerLabo/MAP_Topo/MBukPaBL_Topo_VFX/MBukPaBL_Topo_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800B408 binarized successfully.
+
+[Message]Binarizing wor 7DD05AC7 (/MAPS/Buckingham/Buckingham_BunkerLabo/MAP_Topo/MBukPaBL_Topo_LGT/MBukPaBL_Topo_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD05AC7 binarized successfully.
+
+[Message]Binarizing wor ADD18E42 (/MAPS/Buckingham/Buckingham_BunkerRoyalQuarter/MAP_Topo/MBukPaBRQ_Topo_LA/MBukPaBRQ_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD18E42 binarized successfully.
+
+[Message]Binarizing wor 91D0074A (/MAPS/Buckingham/Buckingham_BunkerRoyalQuarter/MAP_Topo/MBukPaBRQ_Topo_SND/MBukPaBRQ_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D0074A binarized successfully.
+
+[Message]Binarizing wor ADD11C1D (/MAPS/Buckingham/Buckingham_BunkerRoyalQuarter/MAP_Topo/MBukPaBRQ_Topo_LD/MBukPaBRQ_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11C1D binarized successfully.
+
+[Message]Binarizing wor 5800B40B (/MAPS/Buckingham/Buckingham_BunkerRoyalQuarter/MAP_Topo/MBukPaBRQ_Topo_VFX/MBukPaBRQ_Topo_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800B40B binarized successfully.
+
+[Message]Binarizing wor 7DD05ACD (/MAPS/Buckingham/Buckingham_BunkerRoyalQuarter/MAP_Topo/MBukPaBRQ_Topo_LGT/MBukPaBRQ_Topo_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD05ACD binarized successfully.
+
+[Message]Binarizing wor 9D900ABF (/MAPS/Buckingham/Buckingham_BunkerDocLab/MAP_Missions/CBukBunker_Doc03_RTC_CINE/CBukBunker_Doc03_RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 9D900ABF binarized successfully.
+
+[Message]Binarizing wor ADD11DE4 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_Missions/M08_RavensFlat/MBukPaBH_M08_RavensFlat_LD/MBukPaBH_M08_RavensFlat_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11DE4 binarized successfully.
+
+[Message]Binarizing wor 91D023D7 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_Missions/M15_ChaseTheDoc/MBukPaBH_M15_ChaseTheDoc_SND/MBukPaBH_M15_ChaseTheDoc_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D023D7 binarized successfully.
+
+[Message]Binarizing wor ADD11E4A (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_Missions/M15_ChaseTheDoc/MBukPaBH_M15_ChaseTheDoc_LD/MBukPaBH_M15_ChaseTheDoc_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11E4A binarized successfully.
+
+[Message]Binarizing wor ADD19B39 (/MAPS/Buckingham/Buckingham_BunkerHUB/MAP_Revisit/DAYNIGHT/MBukPaBH_Revisit_DAYNIGHT_LD/MBukPaBH_Revisit_DAYNIGHT_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD19B39 binarized successfully.
+
+[Message]Binarizing wor 38D01932 (/07 Levels/_kit/_kit_NPC/_kit_Zombie_Chav_Puppet/_kit_Zombie_Chav_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D01932 binarized successfully.
+
+[Message]Binarizing wor 38D01902 (/07 Levels/_kit/_kit_NPC/_kit_Zombie_Cop_Puppet/_kit_Zombie_Cop_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D01902 binarized successfully.
+
+[Message]Binarizing wor 38D018E1 (/07 Levels/_kit/_kit_NPC/_kit_Zombie_Casual_Puppet/_kit_Zombie_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D018E1 binarized successfully.
+
+[Message]Binarizing wor ADD18F68 (/MAPS/BrickLane/BrickLane_Church/MAP_Topo/MBrkLnCh_Topo_SECTO/MBrkLnCh_Topo_SECTO.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD18F68 binarized successfully.
+
+[Message]Binarizing wor CE901039 (/MAPS/BrickLane/BrickLane_Common/BrickLane_CommonChurch_SND/BrickLane_CommonChurch_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE901039 binarized successfully.
+
+[Message]Binarizing wor ADD0973F (/MAPS/BrickLane/BrickLane_Common/BrickLane_CommonChurch/BrickLane_CommonChurch.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD0973F binarized successfully.
+
+[Message]Binarizing wor 91D00719 (/MAPS/BrickLane/BrickLane_Church/MAP_Topo/MBrkLnCh_Topo_SND/MBrkLnCh_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D00719 binarized successfully.
+
+[Message]Binarizing wor ADD1058C (/MAPS/BrickLane/BrickLane_Church/MAP_Topo/MBrkLnCh_Topo_LA/MBrkLnCh_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD1058C binarized successfully.
+
+[Message]Binarizing wor ADD10597 (/MAPS/BrickLane/BrickLane_Church/MAP_Topo/MBrkLnCh_Topo_LGT_Night/MBrkLnCh_Topo_LGT_Night.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD10597 binarized successfully.
+
+[Message]Binarizing wor 5800A858 (/MAPS/BrickLane/BrickLane_Church/MAP_Topo/MBrkLnCh_Topo_VFX/MBrkLnCh_Topo_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800A858 binarized successfully.
+
+[Message]Binarizing wor 0A100089 (/MAPS/BrickLane/BrickLane_Church/MAP_Topo/MBrkLnCh_Topo_LD/MBrkLnCh_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor 0A100089 binarized successfully.
+
+[Message]Binarizing wor 7590092F (/MAPS/BrickLane/BrickLane_Church/MAP_Missions/M14_SaveYourArse/MBrkLnCh_M14_SaveYourArse_SND/MBrkLnCh_M14_SaveYourArse_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 7590092F binarized successfully.
+
+[Message]Binarizing wor 87D119C1 (/MAPS/BrickLane/BrickLane_Church/MAP_Missions/CBrkLnChurch _RTC_CINE/CBrkLnChurch_Rebirth_RTC_CINE/CBrkLnChurch_Rebirth_RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 87D119C1 binarized successfully.
+
+[Message]Binarizing wor A6D02B3B (/MAPS/BrickLane/BrickLane_Church/MAP_Missions/CBrkLnChurch _RTC_CINE/CBrkLnChurch_PrezButton_RTC_CINE/CBrkLnChurch_PrezButton_RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor A6D02B3B binarized successfully.
+
+[Message]Binarizing wor ADD11AFD (/MAPS/BrickLane/BrickLane_Church/MAP_Missions/M14_SaveYourArse/MBrkLnCh_M14_SaveYourArse_LD/MBrkLnCh_M14_SaveYourArse_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11AFD binarized successfully.
+
+[Message]Binarizing wor 759009AA (/MAPS/BrickLane/BrickLane_Church/MAP_Missions/M13_SaveTheGirl/MBrkLnCh_M13_SaveTheGirl_SND/MBrkLnChCa_M13_SaveTheGirl_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 759009AA binarized successfully.
+
+[Message]Binarizing wor A6D02B11 (/MAPS/BrickLane/BrickLane_Church/MAP_Missions/CBrkLnChurch _RTC_CINE/CBrkLnChurch_MeetChavs_RTC_CINE/CBrkLnChurch_MeetChavs_RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor A6D02B11 binarized successfully.
+
+[Message]Binarizing wor ADD11ACD (/MAPS/BrickLane/BrickLane_Church/MAP_Missions/M13_SaveTheGirl/MBrkLnCh_M13_SaveTheGirl_LD/MBrkLnCh_M13_SaveTheGirl_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11ACD binarized successfully.
+
+[Message]Binarizing wor A6D02F93 (/MAPS/BrickLane/BrickLane_ChurchCatacomb/MAP_Topo/MBrkLnChCa_Topo_RTC_CINE/MBrkLnChCa_RATS_CINE/MBrkLnChCa_RATS_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor A6D02F93 binarized successfully.
+
+[Message]Binarizing wor 91D00725 (/MAPS/BrickLane/BrickLane_ChurchCatacomb/MAP_Topo/MBrkLnChCa_Topo_SND/MBrkLnChCa_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D00725 binarized successfully.
+
+[Message]Binarizing wor ADD1518F (/MAPS/BrickLane/BrickLane_ChurchCatacomb/MAP_Topo/MBrkLnChCa_Topo_LA/MBrkLnChCa_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD1518F binarized successfully.
+
+[Message]Binarizing wor ADD13F59 (/MAPS/BrickLane/BrickLane_ChurchCatacomb/MAP_Topo/MBrkLnChCa_Topo_LGT_Night/MBrkLnChCa_Topo_LGT_Night.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD13F59 binarized successfully.
+
+[Message]Binarizing wor 5800B3F9 (/MAPS/BrickLane/BrickLane_ChurchCatacomb/MAP_Topo/MBrkLnChCa_Topo_VFX/MBrkLnChCa_Topo_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800B3F9 binarized successfully.
+
+[Message]Binarizing wor ADD13F5C (/MAPS/BrickLane/BrickLane_ChurchCatacomb/MAP_Topo/MBrkLnChCa_Topo_LD/MBrkLnChCa_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD13F5C binarized successfully.
+
+[Message]Binarizing wor 91D00722 (/MAPS/BrickLane/BrickLane_ChurchSewer/MAP_Topo/MBrkLnChSe_Topo_SND/MBrkLnChSe_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D00722 binarized successfully.
+
+[Message]Binarizing wor ADD15530 (/MAPS/BrickLane/BrickLane_ChurchSewer/MAP_Topo/MBrkLnChSe_Topo_LA/MBrkLnChSe_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD15530 binarized successfully.
+
+[Message]Binarizing wor ADD169DC (/MAPS/BrickLane/BrickLane_ChurchSewer/MAP_Topo/MBrkLnChSe_Topo_LGT_Night/MBrkLnChSe_Topo_LGT_Night.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD169DC binarized successfully.
+
+[Message]Binarizing wor 06D1047D (/MAPS/BrickLane/BrickLane_ChurchSewer/MAP_Topo/MBrkLnChSe_Topo_VFX/MBrkLnChSe_Topo_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 06D1047D binarized successfully.
+
+[Message]Binarizing wor ADD157A9 (/MAPS/BrickLane/BrickLane_ChurchSewer/MAP_Topo/MBrkLnChSe_Topo_LD/MBrkLnChSe_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD157A9 binarized successfully.
+
+[Message]Binarizing wor CE9009F9 (/MAPS/BrickLane/BrickLane_ChurchSewer/MAP_TopoSAS/TopoSAS1/MBrkLnChSe_TopoSAS1_SND/MBrkLnChSe_TopoSAS1_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE9009F9 binarized successfully.
+
+[Message]Binarizing wor ADD17693 (/MAPS/BrickLane/BrickLane_ChurchSewer/MAP_TopoSAS/TopoSAS1/MBrkLnChSe_TopoSAS1_LD/MBrkLnChSe_TopoSAS1_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD17693 binarized successfully.
+
+[Message]Binarizing wor 5800C45E (/MAPS/BrickLane/BrickLane_ChurchSewer/MAP_TopoSAS/TopoSAS1/MBrkLnChSe_TopoSAS1_VFX/MBrkLnChSe_TopoSAS1_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C45E binarized successfully.
+
+[Message]Binarizing wor 7DD054D7 (/MAPS/BrickLane/BrickLane_ChurchSewer/MAP_TopoSAS/TopoSAS1/MBrkLnChSe_TopoSAS1_LGT/MBrkLnChSe_TopoSAS1_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD054D7 binarized successfully.
+
+[Message]Binarizing wor CE900A2F (/MAPS/BrickLane/BrickLane_ChurchSewer/MAP_TopoSAS/TopoSASS/MBrkLnChSe_TopoSASS_SND/MBrkLnChSe_TopoSASS_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE900A2F binarized successfully.
+
+[Message]Binarizing wor ADD10E0C (/MAPS/BrickLane/BrickLane_ChurchSewer/MAP_TopoSAS/TopoSASS/MBrkLnChSe_TopoSASS_LD/MBrkLnChSe_TopoSASS_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD10E0C binarized successfully.
+
+[Message]Binarizing wor 5800C461 (/MAPS/BrickLane/BrickLane_ChurchSewer/MAP_TopoSAS/TopoSASS/MBrkLnChSe_TopoSASS_VFX/MBrkLnChSe_TopoSASS_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C461 binarized successfully.
+
+[Message]Binarizing wor 7DD054DB (/MAPS/BrickLane/BrickLane_ChurchSewer/MAP_TopoSAS/TopoSASS/MBrkLnChSe_TopoSASS_LGT/MBrkLnChSe_TopoSASS_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD054DB binarized successfully.
+
+[Message]Binarizing wor ADD19EED (/MAPS/BrickLane/BrickLane_Church/MAP_Revisit/DAYNIGHT/MBrkLnCh_Revisit_DAYNIGHT_LD/MBrkLnCh_Revisit_DAYNIGHT_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD19EED binarized successfully.
+
+[Message]Binarizing wor 38D019CA (/07 Levels/_kit/_kit_NPC/_kit_Zombie_ScotGuard_Puppet/_kit_Zombie_ScotGuard_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D019CA binarized successfully.
+
+[Message]Binarizing wor ADD19574 (/MAPS/Buckingham/Buckingham_FrontMissions/MBukPaBFGa_Topo_SECTO/MBukPaBFGa_Topo_SECTO.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD19574 binarized successfully.
+
+[Message]Binarizing wor 5F10B844 (/MAPS/Buckingham/Buckingham_FrontMissions/MBukPaBF_Topo_GEN/MBukPaBF_Topo_GEN.wor)...
+[Message]0 errors, 0 warnings
+Wor 5F10B844 binarized successfully.
+
+[Message]Binarizing wor CE9010AE (/MAPS/Buckingham/Buckingham_Common/Buckingham_CommonFront_SND/Buckingham_CommonFront_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE9010AE binarized successfully.
+
+[Message]Binarizing wor ADD16BE4 (/MAPS/Buckingham/Buckingham_Common/Buckingham_CommonFront/Buckingham_CommonFront.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD16BE4 binarized successfully.
+
+[Message]Binarizing wor 9D900E92 (/MAPS/Buckingham/Buckingham_FrontMissions/Buckingham_FrontMissions_RTC_Cine/Buckingham_FrontMissions_RTC_Rats/Buckingham_FrontMissions_RTC_Rats.wor)...
+[Message]0 errors, 0 warnings
+Wor 9D900E92 binarized successfully.
+
+[Message]Binarizing wor 9D904714 (/MAPS/Buckingham/Buckingham_FrontGates/Buckingham_FrontGates _RTC_CINE/Buckingham_FrontGates _RTC_Crows/Buckingham_FrontGates _RTC_Crows.wor)...
+[Message]0 errors, 0 warnings
+Wor 9D904714 binarized successfully.
+
+[Message]Binarizing wor CE90068B (/MAPS/Buckingham/Buckingham_FrontMissions/M04_HackBuckGcams_M05_ScavageBunker/MBukPa_M04M05_SND/MBukPa_M04M05_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE90068B binarized successfully.
+
+[Message]Binarizing wor 5F10BBF2 (/MAPS/Buckingham/Buckingham_FrontMissions/M04_HackBuckGcams_M05_ScavageBunker/MBukPa_M04M05_LD/MBukPa_M04M05_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor 5F10BBF2 binarized successfully.
+
+[Message]Binarizing wor 87D11A23 (/MAPS/Buckingham/Buckingham_FrontGates/Buckingham_FrontGates _RTC_CINE/BuckFG _Shelter_RTC_CINE/BuckFG_Shelter_RTC_CINE/BuckFG_Shelter_RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 87D11A23 binarized successfully.
+
+[Message]Binarizing wor 7DD0551C (/MAPS/Buckingham/Buckingham_FrontGates/MAP_TopoSAS/TopoSASshelter/MBukPaBFGa_TopoSASshelter_LGT/MBukPaBFGa_TopoSASshelter_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD0551C binarized successfully.
+
+[Message]Binarizing wor CE9013CF (/MAPS/Buckingham/Buckingham_FrontGates/MAP_TopoSAS/TopoSASshelter/MBukPaBFGa_TopoSASshelter_SND/MBukPaBFGa_TopoSASshelter_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE9013CF binarized successfully.
+
+[Message]Binarizing wor ADD17C14 (/MAPS/Buckingham/Buckingham_FrontGates/MAP_TopoSAS/TopoSASshelter/MBukPaBFGa_TopoSASshelter_LD/MBukPaBFGa_TopoSASshelter_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD17C14 binarized successfully.
+
+[Message]Binarizing wor 87D029CC (/MAPS/Buckingham/Buckingham_FrontGates/MAP_Topo/MBukPaOut_A_Topo_LA/MBukPaOut_A_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor 87D029CC binarized successfully.
+
+[Message]Binarizing wor 690000F8 (/MAPS/Buckingham/Buckingham_FrontGates/MAP_Topo/MBukPaOut_A_Topo_VFX/MBukPaOut_A_Topo_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 690000F8 binarized successfully.
+
+[Message]Binarizing wor 7BD00A06 (/MAPS/Buckingham/Buckingham_FrontGates/MAP_Topo/MBukPaOut_A_Topo_LA_Background/MBukPaOut_A_Topo_LA_Background.wor)...
+[Message]0 errors, 0 warnings
+Wor 7BD00A06 binarized successfully.
+
+[Message]Binarizing wor C2D01B65 (/MAPS/Buckingham/Buckingham_FrontGates/MAP_Topo/MBukPaOut_A_Topo_SND/MBukPaOut_A_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor C2D01B65 binarized successfully.
+
+[Message]Binarizing wor 81D0930F (/MAPS/Buckingham/Buckingham_FrontGates/MAP_Topo/MBukPaOut_A_Topo_LD/MBukPaOut_A_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor 81D0930F binarized successfully.
+
+[Message]Binarizing wor 680486C1 (/MAPS/Buckingham/Buckingham_FrontGates/MAP_Topo/MBukPaOut_A_Topo_LGT_Day/MBukPaOut_A_Topo_LGT_Day.wor)...
+[Message]0 errors, 0 warnings
+Wor 680486C1 binarized successfully.
+
+[Message]Binarizing wor B7D13715 (/MAPS/Buckingham/Buckingham_FrontSwamp/Map Missions/Buckingham_FrontSwamp _RTC_CINE/Buckingham_FrontSwamp _RTC_Crows/Buckingham_FrontSwamp _RTC_Crows.wor)...
+[Message]0 errors, 0 warnings
+Wor B7D13715 binarized successfully.
+
+[Message]Binarizing wor 87D0E4B3 (/MAPS/Buckingham/Buckingham_FrontSwamp/MAP_Topo/MBukPaBFS_Topo_LA/MBukPaBFS_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor 87D0E4B3 binarized successfully.
+
+[Message]Binarizing wor 06D1053A (/MAPS/Buckingham/Buckingham_FrontSwamp/MAP_Topo/MBukPaBFS_Topo_VFX/MBukPaBFS_Topo_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 06D1053A binarized successfully.
+
+[Message]Binarizing wor 0E00D971 (/MAPS/Buckingham/Buckingham_FrontSwamp/MAP_Topo/MBukPaBFS_Topo_LGT/MBukPaBFS_Topo_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 0E00D971 binarized successfully.
+
+[Message]Binarizing wor 91D0073B (/MAPS/Buckingham/Buckingham_FrontSwamp/MAP_Topo/MBukPaBFS_Topo_SND/MBukPaBFS_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D0073B binarized successfully.
+
+[Message]Binarizing wor 81D0ACF2 (/MAPS/Buckingham/Buckingham_FrontSwamp/MAP_Topo/MBukPaBFS_Topo_LD/MBukPaBFS_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor 81D0ACF2 binarized successfully.
+
+[Message]Binarizing wor ADD22E13 (/MAPS/Buckingham/Buckingham_FrontSwamp/MAP_TopoSAS/TopoSAS1/MBukPaBFS_TopoSAS1_LA/MBukPaBFS_TopoSAS1_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD22E13 binarized successfully.
+
+[Message]Binarizing wor ADD22DE5 (/MAPS/Buckingham/Buckingham_FrontSwamp/MAP_TopoSAS/TopoSAS1/MBukPaBFS_TopoSAS1_LD2/MBukPaBFS_TopoSAS1_LD2.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD22DE5 binarized successfully.
+
+[Message]Binarizing wor ADD22DD8 (/MAPS/Buckingham/Buckingham_FrontSwamp/MAP_TopoSAS/TopoSAS1/MBukPaBFS_TopoSAS1_LGT2/MBukPaBFS_TopoSAS1_LGT2.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD22DD8 binarized successfully.
+
+[Message]Binarizing wor ADD22DCE (/MAPS/Buckingham/Buckingham_FrontSwamp/MAP_TopoSAS/TopoSAS1/MBukPaBFS_TopoSAS1_SND/MBukPaBFS_TopoSAS1_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD22DCE binarized successfully.
+
+[Message]Binarizing wor ADD22DBE (/MAPS/Buckingham/Buckingham_FrontSwamp/MAP_TopoSAS/TopoSAS1/MBukPaBFS_TopoSAS1_VFX_Common/MBukPaBFS_TopoSAS1_VFX_Common.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD22DBE binarized successfully.
+
+[Message]Binarizing wor CE900AC4 (/MAPS/Buckingham/Buckingham_FrontSwamp/MAP_TopoSAS/TopoSASS/MBukPaBFS_TopoSASS_SND/MBukPaBFS_TopoSASS_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE900AC4 binarized successfully.
+
+[Message]Binarizing wor ADD17BEE (/MAPS/Buckingham/Buckingham_FrontSwamp/MAP_TopoSAS/TopoSASS/MBukPaBFS_TopoSASS_LD/MBukPaBFS_TopoSASS_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD17BEE binarized successfully.
+
+[Message]Binarizing wor 5800C4A8 (/MAPS/Buckingham/Buckingham_FrontSwamp/MAP_TopoSAS/TopoSASS/MBukPaBFS_TopoSASS_VFX/MBukPaBFS_TopoSASS_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C4A8 binarized successfully.
+
+[Message]Binarizing wor 7DD0552D (/MAPS/Buckingham/Buckingham_FrontSwamp/MAP_TopoSAS/TopoSASS/MBukPaBFS_TopoSASS_LGT/MBukPaBFS_TopoSASS_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD0552D binarized successfully.
+
+[Message]Binarizing wor 08043E6F (/MAPS/Buckingham/Buckingham_FrontUnderground/MAP_Topo/MBukPaBFU_Topo_LA/MBukPaBFU_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor 08043E6F binarized successfully.
+
+[Message]Binarizing wor 91D00738 (/MAPS/Buckingham/Buckingham_FrontUnderground/MAP_Topo/MBukPaBFU_Topo_SND/MBukPaBFU_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D00738 binarized successfully.
+
+[Message]Binarizing wor ADD11273 (/MAPS/Buckingham/Buckingham_FrontUnderground/MAP_Topo/MBukPaBFU_Topo_LD/MBukPaBFU_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11273 binarized successfully.
+
+[Message]Binarizing wor 5800B40E (/MAPS/Buckingham/Buckingham_FrontUnderground/MAP_Topo/MBukPaBFU_Topo_VFX/MBukPaBFU_Topo_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800B40E binarized successfully.
+
+[Message]Binarizing wor 7DD0507D (/MAPS/Buckingham/Buckingham_FrontUnderground/MAP_Topo/MBukPaBFU_Topo_LGT/MBukPaBFU_Topo_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD0507D binarized successfully.
+
+[Message]Binarizing wor CE900AD1 (/MAPS/Buckingham/Buckingham_FrontUnderground/MAP_TopoSAS/TopoSAS1/MBukPaBFU_TopoSAS1_SND/MBukPaBFU_TopoSAS1_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE900AD1 binarized successfully.
+
+[Message]Binarizing wor ADD17BA2 (/MAPS/Buckingham/Buckingham_FrontUnderground/MAP_TopoSAS/TopoSAS1/MBukPaBFU_TopoSAS1_LD/MBukPaBFU_TopoSAS1_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD17BA2 binarized successfully.
+
+[Message]Binarizing wor 7DD05531 (/MAPS/Buckingham/Buckingham_FrontUnderground/MAP_TopoSAS/TopoSAS1/MBukPaBFU_TopoSAS1_LGT/MBukPaBFU_TopoSAS1_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD05531 binarized successfully.
+
+[Message]Binarizing wor 91D01994 (/MAPS/Buckingham/Buckingham_FrontSwamp/MAP_TopoSAS/TopoSAS2/MBukPaBFS_TopoSAS2_SND/MBukPaBFS_TopoSAS2_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D01994 binarized successfully.
+
+[Message]Binarizing wor ADD17BC8 (/MAPS/Buckingham/Buckingham_FrontSwamp/MAP_TopoSAS/TopoSAS2/MBukPaBFS_TopoSAS2_LD/MBukPaBFS_TopoSAS2_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD17BC8 binarized successfully.
+
+[Message]Binarizing wor 5800C4A5 (/MAPS/Buckingham/Buckingham_FrontSwamp/MAP_TopoSAS/TopoSAS2/MBukPaBFS_TopoSAS2_VFX/MBukPaBFS_TopoSAS2_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C4A5 binarized successfully.
+
+[Message]Binarizing wor 7D904CC7 (/MAPS/Buckingham/Buckingham_FrontSwamp/MAP_TopoSAS/TopoSAS2/MBukPaBFS_TopoSAS2_LGT/MBukPaBFS_TopoSAS2_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7D904CC7 binarized successfully.
+
+[Message]Binarizing wor A6D0314D (/MAPS/Buckingham/Buckingham_FrontSwamp/Map Missions/Buckingham_FrontSwamp _RTC_CINE/MBukSwap_Sondra_RTC_CINE/MBukSwap_Sondra_RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor A6D0314D binarized successfully.
+
+[Message]Binarizing wor CE901247 (/MAPS/Buckingham/Buckingham_FrontMissions/M09_FindAmmo_M10_CallForEvac/MBukPa_M09_M10_SND/MBukPa_M09_M10_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE901247 binarized successfully.
+
+[Message]Binarizing wor 5F10B580 (/MAPS/Buckingham/Buckingham_FrontMissions/M09_FindAmmo_M10_CallForEvac/MBukPa_M09_M10_LD/MBukPa_M09_M10_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor 5F10B580 binarized successfully.
+
+[Message]Binarizing wor 5800B453 (/MAPS/Buckingham/Buckingham_FrontGates/Buckingham_FrontGates _RTC_CINE/BuckFG_Napalm _RTC_CINE_VFX/BuckFG_Napalm _RTC_CINE_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800B453 binarized successfully.
+
+[Message]Binarizing wor 2000539C (/MAPS/Buckingham/Buckingham_FrontGates/Buckingham_FrontGates _RTC_CINE/BuckFG_Napalm _RTC_CINE/BuckFG_Napalm _RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 2000539C binarized successfully.
+
+[Message]Binarizing wor CE90096E (/MAPS/Buckingham/Buckingham_FrontMissions/M15_ChaseTheDoc/MBukPa_M15_ChaseTheDoc_SND/MBukPa_M15_ChaseTheDoc_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE90096E binarized successfully.
+
+[Message]Binarizing wor 5F10B5CA (/MAPS/Buckingham/Buckingham_FrontMissions/M15_ChaseTheDoc/MBukPa_M15_ChaseTheDoc_LD/MBukPa_M15_ChaseTheDoc_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor 5F10B5CA binarized successfully.
+
+[Message]Binarizing wor ADD199E8 (/MAPS/Buckingham/Buckingham_FrontMissions/Front_Revisit/Front_Revisit_LD/Front_Revisit_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD199E8 binarized successfully.
+
+[Message]Binarizing wor 38D021C1 (/07 Levels/_kit/_kit_NPC/_kit_Zombie_Father_Puppet/_kit_Zombie_Father_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D021C1 binarized successfully.
+
+[Message]Binarizing wor 38D0250D (/07 Levels/_kit/_kit_NPC/_kit_Zombie_RavenOfDee_Puppet/_kit_Zombie_RavenOfDee_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D0250D binarized successfully.
+
+[Message]Binarizing wor ADD09CEE (/MAPS/BrickLane/BrickLane_GasStation/MAP_Topo/BrkLnGS_Topo_SECTO/BrkLnGS_Topo_SECTO.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD09CEE binarized successfully.
+
+[Message]Binarizing wor ADD16A01 (/MAPS/BrickLane/BrickLane_Common/BrickLane_CommonGasStation/BrickLane_CommonGasStation.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD16A01 binarized successfully.
+
+[Message]Binarizing wor ADD1C5BA (/MAPS/BrickLane/BrickLane_GasStation/MAP_Missions/M11_BringFuel_MapOverwriter/M11_BringFuel_MapOverwriter.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD1C5BA binarized successfully.
+
+[Message]Binarizing wor CE900A40 (/MAPS/BrickLane/BrickLane_GasStation/MAP_TopoSAS/TopoSAS1/MBrkLnGS_TopoSAS1_SND/MBrkLnGS_TopoSAS1_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE900A40 binarized successfully.
+
+[Message]Binarizing wor ADD111E6 (/MAPS/BrickLane/BrickLane_GasStation/MAP_TopoSAS/TopoSAS1/MBrkLnGS_TopoSAS1_LD/MBrkLnGS_TopoSAS1_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD111E6 binarized successfully.
+
+[Message]Binarizing wor 5800C25C (/MAPS/BrickLane/BrickLane_GasStation/MAP_TopoSAS/TopoSAS1/MBrkLnGS_TopoSAS1_VFX/MBrkLnGS_TopoSAS1_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C25C binarized successfully.
+
+[Message]Binarizing wor 7DD054DF (/MAPS/BrickLane/BrickLane_GasStation/MAP_TopoSAS/TopoSAS1/MBrkLnGS_TopoSAS1_LGT/MBrkLnGS_TopoSAS1_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD054DF binarized successfully.
+
+[Message]Binarizing wor 1E001841 (/MAPS/BrickLane/BrickLane_GasStation/MAP_Topo/BrkLnGS_Topo_A_LA/cortex_taff/cortex_taff.wor)...
+[Message]0 errors, 0 warnings
+Wor 1E001841 binarized successfully.
+
+[Message]Binarizing wor D7020F5C (/MAPS/BrickLane/BrickLane_GasStation/MAP_Topo/BrkLnGS_Topo_A_LA/BrkLnGS_Topo_A_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor D7020F5C binarized successfully.
+
+[Message]Binarizing wor C7D1128E (/MAPS/BrickLane/BrickLane_GasStation/MAP_Topo/BrkLnGS_Topo_A_LA_IndiFlat/BrkLnGS_Topo_A_LA_IndiFlat.wor)...
+[Message]0 errors, 0 warnings
+Wor C7D1128E binarized successfully.
+
+[Message]Binarizing wor 7BD00CE9 (/MAPS/BrickLane/BrickLane_GasStation/MAP_Topo/BrkLnGS_Topo_A_LA_Background/BrkLnGS_Topo_A_LA_Background.wor)...
+[Message]0 errors, 0 warnings
+Wor 7BD00CE9 binarized successfully.
+
+[Message]Binarizing wor 68046BAC (/MAPS/BrickLane/BrickLane_GasStation/MAP_Topo/BrkLnGS_Topo_A_LGT_Day/BrkLnGS_Topo_A_LGT_Day.wor)...
+[Message]0 errors, 0 warnings
+Wor 68046BAC binarized successfully.
+
+[Message]Binarizing wor 45D00884 (/MAPS/BrickLane/BrickLane_GasStation/MAP_Topo/BrkLnGS_Topo_A_LGT_GazStIN/BrkLnGS_Topo_A_LGT_GazStIN.wor)...
+[Message]0 errors, 0 warnings
+Wor 45D00884 binarized successfully.
+
+[Message]Binarizing wor 58009110 (/MAPS/BrickLane/BrickLane_GasStation/MAP_Topo/BrkLnGS_Topo_A_VFX_DayRain/BrkLnGS_Topo_A_VFX_DayRain.wor)...
+[Message]0 errors, 0 warnings
+Wor 58009110 binarized successfully.
+
+[Message]Binarizing wor 8B00FD6F (/MAPS/BrickLane/BrickLane_GasStation/MAP_Topo/BrkLnGS_Topo_A_SND/MBrkLnGS_A_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 8B00FD6F binarized successfully.
+
+[Message]Binarizing wor B7D13701 (/MAPS/BrickLane/BrickLane_GasStation/MAP_Missions/BrickLane_GasStation_RTC_CINE/BrickLane_GasStation_RTC_Crows/BrickLane_GasStation_RTC_Crows.wor)...
+[Message]0 errors, 0 warnings
+Wor B7D13701 binarized successfully.
+
+[Message]Binarizing wor AFD03DC9 (/MAPS/BrickLane/BrickLane_GasStation/MAP_Topo/BrkLnGS_Topo_LD/BrkLnGS_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor AFD03DC9 binarized successfully.
+
+[Message]Binarizing wor CE9018B3 (/MAPS/BrickLane/BrickLane_GasStation/MAP_Missions/MBrkLnGS_M11_BringFuel_SND/MBrkLnGS_M11_BringFuel_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE9018B3 binarized successfully.
+
+[Message]Binarizing wor 9CD00179 (/MAPS/BrickLane/BrickLane_GasStation/MAP_Missions/BrickLane_GasStation_RTC_CINE/BrickLane_GasStation_MeetFather_CINE/BrickLane_GasStation_MeetFather_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 9CD00179 binarized successfully.
+
+[Message]Binarizing wor A6D02DC3 (/MAPS/BrickLane/BrickLane_GasStation/MAP_Missions/BrickLane_GasStation_RTC_CINE/BrickLane_GasStation_KillMePlease_CINE/BrickLane_GasStation_KillMePlease_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor A6D02DC3 binarized successfully.
+
+[Message]Binarizing wor AFD07C72 (/MAPS/BrickLane/BrickLane_GasStation/MAP_Missions/M11_BringFuel/MBrkLnGS_M11_BringFuel.wor)...
+[Message]0 errors, 0 warnings
+Wor AFD07C72 binarized successfully.
+
+[Message]Binarizing wor 7DD054E9 (/MAPS/BrickLane/BrickLane_GasStation/MAP_TopoSAS/TopoSASshelter/MBrkLnGS_TopoSASshelter_LGT/MBrkLnGS_TopoSASshelter_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD054E9 binarized successfully.
+
+[Message]Binarizing wor 87D11B52 (/MAPS/BrickLane/BrickLane_GasStation/MAP_TopoSAS/TopoSASshelter/BrickLane_GasStation_Shelter_CINE/BrickLane_GasStation_Shelter_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 87D11B52 binarized successfully.
+
+[Message]Binarizing wor ADD189EB (/MAPS/BrickLane/BrickLane_GasStation/MAP_TopoSAS/TopoSASshelter/MBrkLnGS_TopoSASshelter_LD/MBrkLnGS_TopoSASshelter_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD189EB binarized successfully.
+
+[Message]Binarizing wor CE90047B (/MAPS/BrickLane/BrickLane_GasStation/MAP_TopoSAS/TopoSAS2/MBrkLnGS_TopoSAS2_SND/MBrkLnGS_TopoSAS2_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE90047B binarized successfully.
+
+[Message]Binarizing wor 7D9041A2 (/MAPS/BrickLane/BrickLane_GasStation/MAP_TopoSAS/TopoSAS2/MBrkLnGS_TopoSAS2_LGT/MBrkLnGS_TopoSAS2_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7D9041A2 binarized successfully.
+
+[Message]Binarizing wor ADD11215 (/MAPS/BrickLane/BrickLane_GasStation/MAP_TopoSAS/TopoSAS2/MBrkLnGS_TopoSAS2_LD/MBrkLnGS_TopoSAS2_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11215 binarized successfully.
+
+[Message]Binarizing wor 5800C25F (/MAPS/BrickLane/BrickLane_GasStation/MAP_TopoSAS/TopoSAS2/MBrkLnGS_TopoSAS2_VFX/MBrkLnGS_TopoSAS2_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C25F binarized successfully.
+
+[Message]Binarizing wor CE900A53 (/MAPS/BrickLane/BrickLane_GasStation/MAP_TopoSAS/TopoSASS/MBrkLnGS_TopoSASS_SND/MBrkLnGS_TopoSASS_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE900A53 binarized successfully.
+
+[Message]Binarizing wor ADD18C7E (/MAPS/BrickLane/BrickLane_GasStation/MAP_TopoSAS/TopoSASS/MBrkLnGS_TopoSASS_LD/MBrkLnGS_TopoSASS_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD18C7E binarized successfully.
+
+[Message]Binarizing wor 5800C464 (/MAPS/BrickLane/BrickLane_GasStation/MAP_TopoSAS/TopoSASS/MBrkLnGS_TopoSASS_VFX/MBrkLnGS_TopoSASS_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C464 binarized successfully.
+
+[Message]Binarizing wor 7DD054E7 (/MAPS/BrickLane/BrickLane_GasStation/MAP_TopoSAS/TopoSASS/MBrkLnGS_TopoSASS_LGT/MBrkLnGS_TopoSASS_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD054E7 binarized successfully.
+
+[Message]Binarizing wor AFD0724D (/MAPS/BrickLane/BrickLane_GasStation/MAP_Revisit/NIGHT/BrkLnGS_A_Revisit_NIGHT_LD/BrkLnGS_A_Revisit_NIGHT_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor AFD0724D binarized successfully.
+
+[Message]Binarizing wor ADD1D786 (/07 Levels/LABO/MAPS_AutoTest/Nightmare_AutoTest/Nightmare_AutoTest.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD1D786 binarized successfully.
+
+[Message]Binarizing wor ADD1957A (/MAPS/Nightmare/Nightmare/MAP_Topo/MNightmare_Topo_SECTO/MNightmare_Topo_SECTO.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD1957A binarized successfully.
+
+[Message]Binarizing wor ADD113A4 (/MAPS/Nightmare/Nightmare_Common/MNightmare_Common.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD113A4 binarized successfully.
+
+[Message]Binarizing wor C2D0508F (/MAPS/Nightmare/Nightmare/MAP_Missions/N01_EscapePursuers/MNightmare_N01_EscapePursuers_SND/MNightmare_N01_EscapePursuers_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor C2D0508F binarized successfully.
+
+[Message]Binarizing wor ADD118ED (/MAPS/Nightmare/Nightmare/MAP_Missions/N01_EscapePursuers/MNightmare_N01_EscapePursuers_LD/MNightmare_N01_EscapePursuers_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD118ED binarized successfully.
+
+[Message]Binarizing wor A6D031E2 (/MAPS/Nightmare/Nightmare/MAP_Missions/MNm__M01_Nightmare_Fall_CINE_VFX/MNm__M01_Nightmare_Fall_CINE_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor A6D031E2 binarized successfully.
+
+[Message]Binarizing wor D4900380 (/MAPS/Nightmare/Nightmare/MAP_Missions/MNm__M01_Nightmare_Fall_CINE/MNm__M01_Nightmare_Fall_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor D4900380 binarized successfully.
+
+[Message]Binarizing wor 0E010919 (/MAPS/Nightmare/Nightmare/MAP_Topo/MNightmare_Topo_LGT/MNightmare_Topo_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 0E010919 binarized successfully.
+
+[Message]Binarizing wor ADD11341 (/MAPS/Nightmare/Nightmare/MAP_Topo/MNightmare_Topo_LD/MNightmare_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11341 binarized successfully.
+
+[Message]Binarizing wor 5800C4B1 (/MAPS/Nightmare/Nightmare/MAP_Topo/MNightmare_Topo_VFX/MNightmare_Topo_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C4B1 binarized successfully.
+
+[Message]Binarizing wor 1E00B699 (/MAPS/Nightmare/Nightmare/MAP_Topo/MNightmare_Topo_LA/MNightmare_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor 1E00B699 binarized successfully.
+
+[Message]Binarizing wor BFD0152F (/08 Cinematics/GENERIQUES/REBIRTH/REBIRTH_CINE/REBIRTH_Cine.wor)...
+[Message]0 errors, 0 warnings
+Wor BFD0152F binarized successfully.
+
+[Message]Binarizing wor BFD0156B (/08 Cinematics/GENERIQUES/REBIRTH/REBIRTH_Total/REBIRTH_Total.wor)...
+[Message]0 errors, 0 warnings
+Wor BFD0156B binarized successfully.
+
+[Message]Binarizing wor AFD08502 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Topo/BrkLnNur_Topo_SECTO/BrkLnNur_Topo_SECTO.wor)...
+[Message]0 errors, 0 warnings
+Wor AFD08502 binarized successfully.
+
+[Message]Binarizing wor ADD16A0B (/MAPS/BrickLane/BrickLane_Common/BrickLane_CommonNursery/BrickLane_CommonNursery.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD16A0B binarized successfully.
+
+[Message]Binarizing wor ADD1C653 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Missions/M12_BringAntibiotics_MapOverwriter/M12_BringAntibiotics_MapOverwriter.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD1C653 binarized successfully.
+
+[Message]Binarizing wor CE900A60 (/MAPS/BrickLane/BrickLane_Nursery/MAP_TopoSAS/TopoSAS1/MBrkLnNu_TopoSAS1_SND/MBrkLnNu_TopoSAS1_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE900A60 binarized successfully.
+
+[Message]Binarizing wor ADD10DAE (/MAPS/BrickLane/BrickLane_Nursery/MAP_TopoSAS/TopoSAS1/MBrkLnNu_TopoSAS1_LD/MBrkLnNu_TopoSAS1_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD10DAE binarized successfully.
+
+[Message]Binarizing wor 5800C467 (/MAPS/BrickLane/BrickLane_Nursery/MAP_TopoSAS/TopoSAS1/MBrkLnNu_TopoSAS1_VFX/MBrkLnNu_TopoSAS1_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C467 binarized successfully.
+
+[Message]Binarizing wor 7DD054EB (/MAPS/BrickLane/BrickLane_Nursery/MAP_TopoSAS/TopoSAS1/MBrkLnNu_TopoSAS1_LGT/MBrkLnNu_TopoSAS1_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD054EB binarized successfully.
+
+[Message]Binarizing wor AFD0838F (/MAPS/BrickLane/BrickLane_Nursery/MAP_Topo/BrkLnNur_Topo_LA_01/BrkLnNur_Topo_LA_01.wor)...
+[Message]0 errors, 0 warnings
+Wor AFD0838F binarized successfully.
+
+[Message]Binarizing wor AFD083C1 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Topo/BrkLnNur_Topo_LA_02/BrkLnNur_Topo_LA_02.wor)...
+[Message]0 errors, 0 warnings
+Wor AFD083C1 binarized successfully.
+
+[Message]Binarizing wor 1E0081F5 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Topo/BrkLnNur_Topo_LA_03/BrkLnNur_Topo_LA_03.wor)...
+[Message]0 errors, 0 warnings
+Wor 1E0081F5 binarized successfully.
+
+[Message]Binarizing wor 68059F25 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Topo/BrkLnNur_Topo_LGT/BrkLnNur_Topo_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 68059F25 binarized successfully.
+
+[Message]Binarizing wor 8B010EC2 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Topo/BrkLnNur_Topo_SND/MBrkLnNu_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 8B010EC2 binarized successfully.
+
+[Message]Binarizing wor 69000615 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Topo/BrkLnNur_Topo_VFX/BrkLnNur_Topo_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 69000615 binarized successfully.
+
+[Message]Binarizing wor 9D9011FA (/MAPS/BrickLane/BrickLane_Nursery/MAP_Missions/BrKLnNur_A_Mission01_RTC_CINE/BrickLane_Nursery_RTC_Rats/BrickLane_Nursery_RTC_Rats.wor)...
+[Message]0 errors, 0 warnings
+Wor 9D9011FA binarized successfully.
+
+[Message]Binarizing wor B7D13819 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Missions/BrKLnNur_A_Mission01_RTC_CINE/BrickLane_Nursery_RTC_Crows/BrickLane_Nursery_RTC_Crows.wor)...
+[Message]0 errors, 0 warnings
+Wor B7D13819 binarized successfully.
+
+[Message]Binarizing wor AFD0835D (/MAPS/BrickLane/BrickLane_Nursery/MAP_Topo/BrkLnNur_Topo_LD/BrkLnNur_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor AFD0835D binarized successfully.
+
+[Message]Binarizing wor 90900912 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Missions/BrKLnNur_A_Mission01_RTC_CINE/BrKLnNur_A_M01_ZombieCloset_RTC_CINE/BrKLnNur_A_M01_ZombieCloset_RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 90900912 binarized successfully.
+
+[Message]Binarizing wor 90900456 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Missions/BrKLnNur_A_Mission01_RTC_CINE/BrKLnNur_A_M01_Dragon_RTC_CINE/BrKLnNur_A_M01_Dragon_RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 90900456 binarized successfully.
+
+[Message]Binarizing wor BFD011C8 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Missions/BrKLnNur_A_Mission01_RTC_CINE/BrKLnNur_A_M01_MovMobiles_RTC_CINE/BrKLnNur_A_M01_MovMobiles_RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor BFD011C8 binarized successfully.
+
+[Message]Binarizing wor 90900587 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Missions/BrKLnNur_A_Mission01_RTC_CINE/BrKLnNur_A_M01_NURThirdApp02_RTC_CINE/BrKLnNur_A_M01_NURThirdApp02_RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 90900587 binarized successfully.
+
+[Message]Binarizing wor 90900575 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Missions/BrKLnNur_A_Mission01_RTC_CINE/BrKLnNur_A_M01_NURThirdApp01_RTC_CINE/BrKLnNur_A_M01_NURThirdApp01_RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 90900575 binarized successfully.
+
+[Message]Binarizing wor 7F90001B (/MAPS/BrickLane/BrickLane_Nursery/MAP_Missions/BrKLnNur_A_Mission01_RTC_CINE/BrKLnNur_A_M01_FallInNursery_RTC_VFX/BrKLnNur_A_M01_FallInNursery_RTC_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 7F90001B binarized successfully.
+
+[Message]Binarizing wor 1B00DB59 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Missions/BrKLnNur_A_Mission01_RTC_CINE/BrLKLnNur_RDP_Decorpo/BrLKLnNur_RDP_Decorpo.wor)...
+[Message]0 errors, 0 warnings
+Wor 1B00DB59 binarized successfully.
+
+[Message]Binarizing wor BFD01168 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Missions/BrKLnNur_A_Mission01_RTC_CINE/BrKLnNur_A_M01_FallInNursery_RTC_CINE/BrKLnNur_A_M01_FallInNursery_RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor BFD01168 binarized successfully.
+
+[Message]Binarizing wor A6D027E4 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Missions/BrKLnNur_A_Mission01_RTC_CINE/BrKLnNur_A_M01_PrezNURSE_RTC_CINE/BrKLnNur_A_M01_PrezNURSE_RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor A6D027E4 binarized successfully.
+
+[Message]Binarizing wor 0690072E (/MAPS/BrickLane/BrickLane_Nursery/MAP_Missions/BrKLnNur_A_Mission01_RTC_CINE/BrKLnNur_A_M01_FallCorpse_RTC_CINE/BrKLnNur_A_M01_FallCorpse_RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 0690072E binarized successfully.
+
+[Message]Binarizing wor BFD01165 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Missions/BrKLnNur_A_Mission01_RTC_CINE/BrKLnNur_A_M01_Fan_RTC_CINE/BrKLnNur_A_M01_FAN_RTC_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor BFD01165 binarized successfully.
+
+[Message]Binarizing wor 86D0E6F3 (/02 Modelisations/06-GPE/GPE_FloorCollapse/GPEcollapseFloor.wor)...
+[Message]0 errors, 0 warnings
+Wor 86D0E6F3 binarized successfully.
+
+[Message]Binarizing wor 91D02E41 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Missions/M12_BringAntibiotics_SND/MBrkLnNu_M12_BringAntibiotics_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D02E41 binarized successfully.
+
+[Message]Binarizing wor AFD082F8 (/MAPS/BrickLane/BrickLane_Nursery/MAP_Missions/M12_LD/M12_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor AFD082F8 binarized successfully.
+
+[Message]Binarizing wor CE900A73 (/MAPS/BrickLane/BrickLane_Nursery/MAP_TopoSAS/TopoSASS/MBrkLnNu_TopoSASS_SND/MBrkLnNu_TopoSASS_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE900A73 binarized successfully.
+
+[Message]Binarizing wor 7DD054EF (/MAPS/BrickLane/BrickLane_Nursery/MAP_TopoSAS/TopoSASS/MBrkLnNu_TopoSASS_LGT/MBrkLnNu_TopoSASS_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD054EF binarized successfully.
+
+[Message]Binarizing wor 5800C46C (/MAPS/BrickLane/BrickLane_Nursery/MAP_TopoSAS/TopoSASS/MBrkLnNu_TopoSASS_VFX/MBrkLnNu_TopoSASS_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C46C binarized successfully.
+
+[Message]Binarizing wor ADD18A3B (/MAPS/BrickLane/BrickLane_Nursery/MAP_TopoSAS/TopoSASS/MBrkLnNu_TopoSASS_LD/MBrkLnNu_TopoSASS_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD18A3B binarized successfully.
+
+[Message]Binarizing wor AFD0832C (/MAPS/BrickLane/BrickLane_Nursery/MAP_Revisit/BrkLnNur_Revisit_LD/BrkLnNur_Revisit_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor AFD0832C binarized successfully.
+
+[Message]Binarizing wor C5002235 (/07 Levels/_kit/_kit_NPC/_kit_Zombie_BeefEater_Puppet/_kit_Zombie_BeefEater_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor C5002235 binarized successfully.
+
+[Message]Binarizing wor ADD19577 (/MAPS/Buckingham/Buckingham_Palace/MAP_Topo/MBukPaPa_Topo_SECTO/MBukPaPa_Topo_SECTO.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD19577 binarized successfully.
+
+[Message]Binarizing wor ADD16BF7 (/MAPS/Buckingham/Buckingham_Common/Buckingham_CommonPalace/Buckingham_CommonPalace.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD16BF7 binarized successfully.
+
+[Message]Binarizing wor 91D0191F (/MAPS/Buckingham/Buckingham_Palace/MAP_Missions/M06_FirstSample/MBukPaPa_M06_FirstSample_SND/MBukPaPa_M06_FirstSample_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D0191F binarized successfully.
+
+[Message]Binarizing wor 87D119E0 (/MAPS/Buckingham/Buckingham_Palace/MAP_Missions/M06_FirstSample/MBukPaPa_M06_SecretPassage_CINE/MBukPaPa_M06_SecretPassage_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 87D119E0 binarized successfully.
+
+[Message]Binarizing wor ADD11A0D (/MAPS/Buckingham/Buckingham_Palace/MAP_Missions/M06_FirstSample/MBukPaPa_M06_FirstSample_LD/MBukPaPa_M06_FirstSample_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11A0D binarized successfully.
+
+[Message]Binarizing wor 91D0245D (/MAPS/Buckingham/Buckingham_Palace/MAP_TopoSAS/TopoSAS1/MBukPaPa_TopoSAS1_SND/MBukPaPa_TopoSAS1_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D0245D binarized successfully.
+
+[Message]Binarizing wor ADD18A80 (/MAPS/Buckingham/Buckingham_Palace/MAP_TopoSAS/TopoSAS1/MBukPaPa_TopoSAS1_LA/MBukPaPa_TopoSAS1_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD18A80 binarized successfully.
+
+[Message]Binarizing wor ADD11159 (/MAPS/Buckingham/Buckingham_Palace/MAP_TopoSAS/TopoSAS1/MBukPaPa_TopoSAS1_LD/MBukPaPa_TopoSAS1_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11159 binarized successfully.
+
+[Message]Binarizing wor 5800C4AB (/MAPS/Buckingham/Buckingham_Palace/MAP_TopoSAS/TopoSAS1/MBukPaPa_TopoSAS1_VFX/MBukPaPa_TopoSAS1_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C4AB binarized successfully.
+
+[Message]Binarizing wor 7DD05535 (/MAPS/Buckingham/Buckingham_Palace/MAP_TopoSAS/TopoSAS1/MBukPaPa_TopoSAS1_LGT/MBukPaPa_TopoSAS1_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD05535 binarized successfully.
+
+[Message]Binarizing wor 0A000015 (/MAPS/Buckingham/Buckingham_Palace/MAP_Topo/MBukPaBFP_Topo_LA/MBukPaBFP_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor 0A000015 binarized successfully.
+
+[Message]Binarizing wor 7DD03F1D (/MAPS/Buckingham/Buckingham_Palace/MAP_Topo/MBukPaBFP_Topo_LGT/MBukPaBFP_Topo_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD03F1D binarized successfully.
+
+[Message]Binarizing wor 5800B423 (/MAPS/Buckingham/Buckingham_Palace/MAP_Topo/MBukPaBFP_Topo_VFX_Common/MBukPaBFP_Topo_VFX_Common.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800B423 binarized successfully.
+
+[Message]Binarizing wor 06D10456 (/MAPS/Buckingham/Buckingham_Palace/MAP_Topo/MBukPaBFP_Topo_VFX_Fire/MBukPaBFP_Topo_VFX_Fire.wor)...
+[Message]0 errors, 0 warnings
+Wor 06D10456 binarized successfully.
+
+[Message]Binarizing wor 91D0073E (/MAPS/Buckingham/Buckingham_Palace/MAP_Topo/MBukPaPa_Topo_SND/MBukPaPa_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D0073E binarized successfully.
+
+[Message]Binarizing wor 81D0C24E (/MAPS/Buckingham/Buckingham_Palace/MAP_Topo/MBukPaPa_Topo_LD/MBukPaPa_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor 81D0C24E binarized successfully.
+
+[Message]Binarizing wor CE900B08 (/MAPS/Buckingham/Buckingham_Palace/MAP_TopoSAS/TopoSASS/MBukPaPa_TopoSASS_SND/MBukPaPa_TopoSASS_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE900B08 binarized successfully.
+
+[Message]Binarizing wor E3901C7B (/MAPS/Buckingham/Buckingham_Palace/MAP_TopoSAS/TopoSASS/MBukPaPa_TopoSASS_LA/MBukPaPa_TopoSASS_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor E3901C7B binarized successfully.
+
+[Message]Binarizing wor ADD18044 (/MAPS/Buckingham/Buckingham_Palace/MAP_TopoSAS/TopoSASS/MBukPaPa_TopoSASS_LD/MBukPaPa_TopoSASS_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD18044 binarized successfully.
+
+[Message]Binarizing wor 5800C4AE (/MAPS/Buckingham/Buckingham_Palace/MAP_TopoSAS/TopoSASS/MBukPaPa_TopoSASS_VFX/MBukPaPa_TopoSASS_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C4AE binarized successfully.
+
+[Message]Binarizing wor 7DD05537 (/MAPS/Buckingham/Buckingham_Palace/MAP_TopoSAS/TopoSASS/MBukPaPa_TopoSASS_LGT/MBukPaPa_TopoSASS_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD05537 binarized successfully.
+
+[Message]Binarizing wor 9D903B8B (/MAPS/Buckingham/Buckingham_Palace/MAP_Missions/Buckingham_Palace_RTC_Cine/Buckingham_Palace_RTC_NurseApparition/Buckingham_Palace_RTC_NurseApparition.wor)...
+[Message]0 errors, 0 warnings
+Wor 9D903B8B binarized successfully.
+
+[Message]Binarizing wor 91D027E4 (/MAPS/Buckingham/Buckingham_Palace/MAP_Missions/M15_ChaseTheDoc/MBukPaPa_M15_ChaseTheDoc_SND/MBukPaPa_M15_ChaseTheDoc_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D027E4 binarized successfully.
+
+[Message]Binarizing wor ADD11B2D (/MAPS/Buckingham/Buckingham_Palace/MAP_Missions/M15_ChaseTheDoc/MBukPaPa_M15_ChaseTheDoc_LD/MBukPaPa_M15_ChaseTheDoc_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11B2D binarized successfully.
+
+[Message]Binarizing wor 5800B411 (/MAPS/Buckingham/Buckingham_Palace/MAP_Topo/MBukPaBFP_Topo_VFX_NoFire/MBukPaBFP_Topo_VFX_NoFire.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800B411 binarized successfully.
+
+[Message]Binarizing wor 7DD1B122 (/MAPS/Buckingham/Buckingham_Palace/MAP_Topo/MBukPaBFP_Topo2_LGT/MBukPaBFP_Topo2_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD1B122 binarized successfully.
+
+[Message]Binarizing wor 91D03167 (/MAPS/Buckingham/Buckingham_Palace/MAP_Revisit/DAY/MBukPaPa_Revisit_DAY_SND/MBukPaPa_Revisit_DAY_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D03167 binarized successfully.
+
+[Message]Binarizing wor ADD19BC6 (/MAPS/Buckingham/Buckingham_Palace/MAP_Revisit/DAYNIGHT/MBukPaPa_Revisit_DAYNIGHT_LD/MBukPaPa_Revisit_DAYNIGHT_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD19BC6 binarized successfully.
+
+[Message]Binarizing wor 53D01572 (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_Topo/MBrkLnRF_Topo_SECTO/MBrkLnRF_Topo_SECTO.wor)...
+[Message]0 errors, 0 warnings
+Wor 53D01572 binarized successfully.
+
+[Message]Binarizing wor ADD16A25 (/MAPS/BrickLane/BrickLane_Common/BrickLane_CommonRavensFlat/BrickLane_CommonRavensFlat.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD16A25 binarized successfully.
+
+[Message]Binarizing wor BCD008AD (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_Missions/M08_RavensFlat/MBrkLnRF__M08_RavensFlat_Fall_CineVFX/MBrkLnRF__M08_RavensFlat_Fall_CineVFX.wor)...
+[Message]0 errors, 0 warnings
+Wor BCD008AD binarized successfully.
+
+[Message]Binarizing wor 9CD00161 (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_Missions/M08_RavensFlat/MBrkLnRF__M08_RavensFlat_CINE/MBrkLnRF__M08_RavensFlat_Fall_CINE/MBrkLnRF__M08_RavensFlat_Fall_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 9CD00161 binarized successfully.
+
+[Message]Binarizing wor C2D03FA2 (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_Missions/M08_RavensFlat/MBrkLnRF_M08_RavensFlat_SND/MBrkLnRF_M08_RavensFlat_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor C2D03FA2 binarized successfully.
+
+[Message]Binarizing wor ADD11A6D (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_Missions/M08_RavensFlat/MBrkLnRF_M08_RavensFlat_LD/MBrkLnRF_M08_RavensFlat_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11A6D binarized successfully.
+
+[Message]Binarizing wor C2D03D70 (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_TopoSAS/TopoSAS2/MBrkLnRF_TopoSAS2_SND/MBrkLnRF_TopoSAS2_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor C2D03D70 binarized successfully.
+
+[Message]Binarizing wor ADD10E99 (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_TopoSAS/TopoSAS2/MBrkLnRF_TopoSAS2_LD/MBrkLnRF_TopoSAS2_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD10E99 binarized successfully.
+
+[Message]Binarizing wor 5800C472 (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_TopoSAS/TopoSAS2/MBrkLnRF_TopoSAS2_VFX/MBrkLnRF_TopoSAS2_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C472 binarized successfully.
+
+[Message]Binarizing wor 7DD054F1 (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_TopoSAS/TopoSAS2/MBrkLnRF_TopoSAS2_LGT/MBrkLnRF_TopoSAS2_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD054F1 binarized successfully.
+
+[Message]Binarizing wor 91D0072B (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_Topo/MBrkLnRF_Topo_SND/MBrkLnRF_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D0072B binarized successfully.
+
+[Message]Binarizing wor ADD197E4 (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_Topo/MBrkLnRF_Topo_LA/MBrkLnRF_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD197E4 binarized successfully.
+
+[Message]Binarizing wor ADD12CC2 (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_Topo/MBrkLnRF_Topo_LD/MBrkLnRF_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD12CC2 binarized successfully.
+
+[Message]Binarizing wor 5800B3FC (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_Topo/MBrkLnRF_Topo_VFX/MBrkLnRF_Topo_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800B3FC binarized successfully.
+
+[Message]Binarizing wor 7DD05845 (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_Topo/MBrkLnRF_Topo_LGT/MBrkLnRF_Topo_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD05845 binarized successfully.
+
+[Message]Binarizing wor C2D03D62 (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_TopoSAS/TopoSAS1/MBrkLnRF_TopoSAS1_SND/MBrkLnRF_TopoSAS1_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor C2D03D62 binarized successfully.
+
+[Message]Binarizing wor ADD10EC8 (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_TopoSAS/TopoSAS1/MBrkLnRF_TopoSAS1_LD/MBrkLnRF_TopoSAS1_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD10EC8 binarized successfully.
+
+[Message]Binarizing wor 5800C46F (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_TopoSAS/TopoSAS1/MBrkLnRF_TopoSAS1_VFX/MBrkLnRF_TopoSAS1_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C46F binarized successfully.
+
+[Message]Binarizing wor 7DD054F5 (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_TopoSAS/TopoSAS1/MBrkLnRF_TopoSAS1_LGT/MBrkLnRF_TopoSAS1_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD054F5 binarized successfully.
+
+[Message]Binarizing wor C2D03D6D (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_TopoSAS/TopoSASS/MBrkLnRF_TopoSASS_SND/MBrkLnRF_TopoSASS_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor C2D03D6D binarized successfully.
+
+[Message]Binarizing wor ADD18A15 (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_TopoSAS/TopoSASS/MBrkLnRF_TopoSASS_LD/MBrkLnRF_TopoSASS_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD18A15 binarized successfully.
+
+[Message]Binarizing wor 5800C475 (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_TopoSAS/TopoSASS/MBrkLnRF_TopoSASS_VFX/MBrkLnRF_TopoSASS_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C475 binarized successfully.
+
+[Message]Binarizing wor 7DD054F9 (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_TopoSAS/TopoSASS/MBrkLnRF_TopoSASS_LGT/MBrkLnRF_TopoSASS_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD054F9 binarized successfully.
+
+[Message]Binarizing wor ADD19CDC (/MAPS/BrickLane/BrickLane_RavensFlat/MAP_Revisit/DAY/MBrkLnRF_Revisit_DAY_LD/MBrkLnRF_Revisit_DAY_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD19CDC binarized successfully.
+
+[Message]Binarizing wor ADD1C91E (/MAPS/SafeHouse/SafeHouse_Subway/MAP_Topo/MSafeHouseSu_Topo_SECTO/MSafeHouseSu_Topo_SECTO.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD1C91E binarized successfully.
+
+[Message]Binarizing wor 9D901A33 (/MAPS/SafeHouse/SafeHouse_Room/MAP_Missions/SafeHouse_RTC_Rats_CINE/SafeHouse_RTC_Rats_cine.wor)...
+[Message]0 errors, 0 warnings
+Wor 9D901A33 binarized successfully.
+
+[Message]Binarizing wor 9CD014FB (/08 Cinematics/MAPS/Safehouse/CineBK_PrepperEnd/CineBK_PrepperEnd.wor)...
+[Message]0 errors, 0 warnings
+Wor 9CD014FB binarized successfully.
+
+[Message]Binarizing wor 9D900806 (/MAPS/SafeHouse/SafeHouse_Room/MAP_Missions/CCTVmonitor_MB_M01_BOB_Intro/CCTVmonitor_MB_M01_BOB_Intro.wor)...
+[Message]0 errors, 0 warnings
+Wor 9D900806 binarized successfully.
+
+[Message]Binarizing wor 9D9007B3 (/MAPS/SafeHouse/SafeHouse_Room/MAP_Missions/CCTVmonitor_M02_HackSMcams/CCTVmonitor_M02_HackSMcams.wor)...
+[Message]0 errors, 0 warnings
+Wor 9D9007B3 binarized successfully.
+
+[Message]Binarizing wor 9D900782 (/MAPS/SafeHouse/SafeHouse_Room/MAP_Missions/CCTVmonitor_M03_Safehouse_Horde/CCTVmonitor_M03_Safehouse_Horde.wor)...
+[Message]0 errors, 0 warnings
+Wor 9D900782 binarized successfully.
+
+[Message]Binarizing wor 9D900811 (/MAPS/SafeHouse/SafeHouse_Room/MAP_Missions/CCTVmonitor_MB_M04_BuckFront/CCTVmonitor_MB_M04_BuckFront.wor)...
+[Message]0 errors, 0 warnings
+Wor 9D900811 binarized successfully.
+
+[Message]Binarizing wor 9D9007FB (/MAPS/SafeHouse/SafeHouse_Room/MAP_Missions/CCTVmonitor_M09_Buck_FrontSwamp _Colonel/CCTVmonitor_M09_Buck_FrontSwamp _Colonel.wor)...
+[Message]0 errors, 0 warnings
+Wor 9D9007FB binarized successfully.
+
+[Message]Binarizing wor 87D119B3 (/MAPS/SafeHouse/SafeHouse_Room/MAP_Missions/SafeHouse_M01_RTC_CINE/SafeHouse_M01_GenOn_CINE/SafeHouse_M01_GenOn_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 87D119B3 binarized successfully.
+
+[Message]Binarizing wor C2D04AD4 (/MAPS/SafeHouse/SafeHouse_Room/MAP_Missions/M01a_ActivateLights/MSafeHouseRo_M01a_ActivateLights_SND/MSafeHouseRo_M01a_ActivateLights_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor C2D04AD4 binarized successfully.
+
+[Message]Binarizing wor A6D02E7B (/08 Cinematics/GENERIQUES/REBIRTH/REBIRTH_FirstSurvival_CINE/REBIRTH_FirstSurvival_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor A6D02E7B binarized successfully.
+
+[Message]Binarizing wor 87D13245 (/MAPS/SafeHouse/SafeHouse_Room/MAP_Missions/SafeHouse_M01_BOB_CINE/SafeHouse_M01_BOB_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 87D13245 binarized successfully.
+
+[Message]Binarizing wor 51114571 (/MAPS/SafeHouse/SafeHouse_Room/MAP_Missions/M01a_ActivateLights/MSafeHouseRo_M01a_ActivateLights_LD/MSafeHouseRo_M01a_ActivateLights_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor 51114571 binarized successfully.
+
+[Message]Binarizing wor 6804F776 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_Topo/MSafeHouse_Topo_LGT/MSafeHouse_Topo_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 6804F776 binarized successfully.
+
+[Message]Binarizing wor 06D10016 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_Topo/MSafeHouse_Topo_VFX/MSafeHouse_Topo_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 06D10016 binarized successfully.
+
+[Message]Binarizing wor 8B00FD8C (/MAPS/SafeHouse/SafeHouse_Subway/MAP_Topo/MSafeHouse_Topo_SND/MSafeHouse_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 8B00FD8C binarized successfully.
+
+[Message]Binarizing wor 51112713 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_Topo/MSafeHouse_Topo_LD/MSafeHouse_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor 51112713 binarized successfully.
+
+[Message]Binarizing wor D70211A2 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_Topo/MSafeHouse_Topo_LA/MSafeHouse_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor D70211A2 binarized successfully.
+
+[Message]Binarizing wor C2D03DDB (/MAPS/SafeHouse/SafeHouse_Subway/MAP_TopoSAS/TopoSAS1/MSafeHouseSu_TopoSAS1_SND/MSafeHouseSu_TopoSAS1_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor C2D03DDB binarized successfully.
+
+[Message]Binarizing wor 0E00EB19 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_TopoSAS/TopoSAS1/MSafeHouseSu_TopoSAS1_LGT/MSafeHouseSu_TopoSAS1_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 0E00EB19 binarized successfully.
+
+[Message]Binarizing wor 06005793 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_TopoSAS/TopoSAS1/MSafeHouseSu_TopoSAS1_LA/MSafeHouseSu_TopoSAS1_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor 06005793 binarized successfully.
+
+[Message]Binarizing wor ADD112B1 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_TopoSAS/TopoSAS1/MSafeHouseSu_TopoSAS1_LD/MSafeHouseSu_TopoSAS1_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD112B1 binarized successfully.
+
+[Message]Binarizing wor C2D03DDE (/MAPS/SafeHouse/SafeHouse_Subway/MAP_TopoSAS/TopoSAS2/MSafeHouseSu_TopoSAS2_SND/MSafeHouseSu_TopoSAS2_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor C2D03DDE binarized successfully.
+
+[Message]Binarizing wor 0E00EB1F (/MAPS/SafeHouse/SafeHouse_Subway/MAP_TopoSAS/TopoSAS2/MSafeHouseSu_TopoSAS2_LGT/MSafeHouseSu_TopoSAS2_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 0E00EB1F binarized successfully.
+
+[Message]Binarizing wor 5800C4B4 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_TopoSAS/TopoSAS2/MSafeHouseSu_TopoSAS2_VFX/MSafeHouseSu_TopoSAS2_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C4B4 binarized successfully.
+
+[Message]Binarizing wor 06005796 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_TopoSAS/TopoSAS2/MSafeHouseSu_TopoSAS2_LA/MSafeHouseSu_TopoSAS2_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor 06005796 binarized successfully.
+
+[Message]Binarizing wor ADD112E0 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_TopoSAS/TopoSAS2/MSafeHouseSu_TopoSAS2_LD/MSafeHouseSu_TopoSAS2_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD112E0 binarized successfully.
+
+[Message]Binarizing wor C2D03DE1 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_TopoSAS/TopoSAS3/MSafeHouseSu_TopoSAS3_SND/MSafeHouseSu_TopoSAS3_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor C2D03DE1 binarized successfully.
+
+[Message]Binarizing wor 5800C4B7 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_TopoSAS/TopoSAS3/MSafeHouseSu_TopoSAS3_VFX/MSafeHouseSu_TopoSAS3_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C4B7 binarized successfully.
+
+[Message]Binarizing wor 7D903A1E (/MAPS/SafeHouse/SafeHouse_Subway/MAP_TopoSAS/TopoSAS3/MSafeHouseSu_TopoSAS3_LGT/MSafeHouseSu_TopoSAS3_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7D903A1E binarized successfully.
+
+[Message]Binarizing wor 06005799 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_TopoSAS/TopoSAS3/MSafeHouseSu_TopoSAS3_LA/MSafeHouseSu_TopoSAS3_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor 06005799 binarized successfully.
+
+[Message]Binarizing wor ADD1130F (/MAPS/SafeHouse/SafeHouse_Subway/MAP_TopoSAS/TopoSAS3/MSafeHouseSu_TopoSAS3_LD/MSafeHouseSu_TopoSAS3_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD1130F binarized successfully.
+
+[Message]Binarizing wor C2D04D84 (/MAPS/SafeHouse/SafeHouse_Room/MAP_Missions/M03_ResistHorde/MSafeHouseRo_M03_ResistHorde_SND/MSafeHouseRo_M03_ResistHorde_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor C2D04D84 binarized successfully.
+
+[Message]Binarizing wor DAD00B89 (/MAPS/SafeHouse/SafeHouse_Room/MAP_Missions/M03_ResistHorde/MSafeHouseRo_M03_ResistHorde_LD/MSafeHouseRo_M03_ResistHorde_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor DAD00B89 binarized successfully.
+
+[Message]Binarizing wor C2D051BD (/MAPS/SafeHouse/SafeHouse_Subway/MAP_Missions/M09_FindAmmo/MSafeHouseSu_M09_FindAmmo_SND/MSafeHouseSu_M09_FindAmmo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor C2D051BD binarized successfully.
+
+[Message]Binarizing wor ADD11F45 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_Missions/M09_FindAmmo/MSafeHouseSu_M09_FindAmmo_LD/MSafeHouseSu_M09_FindAmmo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11F45 binarized successfully.
+
+[Message]Binarizing wor C2D0535E (/MAPS/SafeHouse/SafeHouse_Subway/MAP_Missions/M11_BringFuel/MSafeHouseSu_M11_BringFuel_SND/MSafeHouseSu_M11_BringFuel_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor C2D0535E binarized successfully.
+
+[Message]Binarizing wor 87D118AA (/MAPS/SafeHouse/SafeHouse_Room/MAP_Missions/SafeHouse_M11_RTC_CINE/SafeHouse_M11_GenOn_CINE/SafeHouse_M11_GenOn_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 87D118AA binarized successfully.
+
+[Message]Binarizing wor ADD11F76 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_Missions/M11_BringFuel/MSafeHouseSu_M11_BringFuel_LD/MSafeHouseSu_M11_BringFuel_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11F76 binarized successfully.
+
+[Message]Binarizing wor C2D051E1 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_Missions/M13_SaveTheGirl/MSafeHouseSu_M13_SaveTheGirl_SND/MSafeHouseSu_M13_SaveTheGirl_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor C2D051E1 binarized successfully.
+
+[Message]Binarizing wor ADD11FA7 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_Missions/M13_SaveTheGirl/MSafeHouseSu_M13_SaveTheGirl_LD/MSafeHouseSu_M13_SaveTheGirl_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11FA7 binarized successfully.
+
+[Message]Binarizing wor C2D0536D (/MAPS/SafeHouse/SafeHouse_Subway/MAP_Missions/M15_ChaseTheDoc/MSafeHouseSu_M15_ChaseTheDoc_SND/MSafeHouseSu_M15_ChaseTheDoc_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor C2D0536D binarized successfully.
+
+[Message]Binarizing wor ADD12005 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_Missions/M15_ChaseTheDoc/MSafeHouseSu_M15_ChaseTheDoc_LD/MSafeHouseSu_M15_ChaseTheDoc_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD12005 binarized successfully.
+
+[Message]Binarizing wor C2D05558 (/MAPS/SafeHouse/SafeHouse_Subway/MAP_Missions/M16_EscapeHome/MSafeHouseSu_M16_EscapeHome_SND/MSafeHouseSu_M16_EscapeHome_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor C2D05558 binarized successfully.
+
+[Message]Binarizing wor ADD11B5D (/MAPS/SafeHouse/SafeHouse_Subway/MAP_Missions/M16_EscapeHome/MSafeHouseSu_M16_EscapeHome_LD/MSafeHouseSu_M16_EscapeHome_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11B5D binarized successfully.
+
+[Message]Binarizing wor ADD12BA7 (/MAPS/SafeHouse/SafeHouse_Room/MAP_Revisit/DAYNIGHT/MSafeHouseRo_Revisit_DAYNIGHT_LD/MSafeHouseRo_Revisit_DAYNIGHT_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD12BA7 binarized successfully.
+
+[Message]Binarizing wor 38D024FD (/07 Levels/_kit/_kit_NPC/_kit_Zombie_Screamer_Puppet/_kit_Zombie_Screamer_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D024FD binarized successfully.
+
+[Message]Binarizing wor EFD00AD4 (/MAPS/BrickLane/BrickLane_Supermarket/MAP_Topo/MBrkLnSM_Topo_SECTO/MBrkLnSM_Topo_SECTO.wor)...
+[Message]0 errors, 0 warnings
+Wor EFD00AD4 binarized successfully.
+
+[Message]Binarizing wor CE90103C (/MAPS/BrickLane/BrickLane_Common/BrickLane_CommonSupermarket_SND/BrickLane_CommonSupermarket_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE90103C binarized successfully.
+
+[Message]Binarizing wor ADD16A19 (/MAPS/BrickLane/BrickLane_Common/BrickLane_CommonSupermarket/BrickLane_CommonSupermarket.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD16A19 binarized successfully.
+
+[Message]Binarizing wor CE90163A (/MAPS/BrickLane/BrickLane_Supermarket/MAP_Missions/M02_HackSMcams/MBrkLnSM_M02_HackSMcams_Int_SND/MBrkLnSM_M02_HackSMcams_Int_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE90163A binarized successfully.
+
+[Message]Binarizing wor 759009D4 (/MAPS/BrickLane/BrickLane_Supermarket/MAP_Missions/M02_HackSMcams/MBrkLnSM_M02_HackSMcams_SND/MBrkLnSM_M02_HackSMcams_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 759009D4 binarized successfully.
+
+[Message]Binarizing wor 65D204E6 (/MAPS/BrickLane/BrickLane_Supermarket/MAP_Missions/M02_HackSMcams/MBrkLnSM_M02_HackSMcams_LD/MBrkLnSM_M02_HackSMcams_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor 65D204E6 binarized successfully.
+
+[Message]Binarizing wor 91D0072E (/MAPS/BrickLane/BrickLane_Supermarket/MAP_Topo/MBrkLnSM_Topo_SND/MBrkLnSM_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D0072E binarized successfully.
+
+[Message]Binarizing wor 9D90064F (/MAPS/BrickLane/BrickLane_Supermarket/MAP_Missions/MBrkLnSM_M02_Crows/MBrkLnSM_M02_Crows.wor)...
+[Message]0 errors, 0 warnings
+Wor 9D90064F binarized successfully.
+
+[Message]Binarizing wor ADD0B21E (/MAPS/BrickLane/BrickLane_Supermarket/MAP_Topo/MBrkLnSM_Topo_LA/MBrkLnSM_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD0B21E binarized successfully.
+
+[Message]Binarizing wor 3AD001AC (/MAPS/BrickLane/BrickLane_Supermarket/MAP_Topo/MBrkLnSM_Topo_LGT/MBrkLnSM_Topo_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 3AD001AC binarized successfully.
+
+[Message]Binarizing wor 5800B3FF (/MAPS/BrickLane/BrickLane_Supermarket/MAP_Topo/MBrkLnSM_Topo_VFX/MBrkLnSM_Topo_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800B3FF binarized successfully.
+
+[Message]Binarizing wor 65D1DFA0 (/MAPS/BrickLane/BrickLane_Supermarket/MAP_Topo/MBrkLnSM_Topo_LD/MBrkLnSM_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor 65D1DFA0 binarized successfully.
+
+[Message]Binarizing wor 7590069F (/MAPS/BrickLane/BrickLane_Supermarket/MAP_TopoSAS/TopoSAS1/MBrkLnSM_TopoSAS1_SND/MBrkLnSM_TopoSAS1_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 7590069F binarized successfully.
+
+[Message]Binarizing wor ADD10F26 (/MAPS/BrickLane/BrickLane_Supermarket/MAP_TopoSAS/TopoSAS1/MBrkLnSM_TopoSAS1_LD/MBrkLnSM_TopoSAS1_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD10F26 binarized successfully.
+
+[Message]Binarizing wor 7DD054FD (/MAPS/BrickLane/BrickLane_Supermarket/MAP_TopoSAS/TopoSAS1/MBrkLnSM_TopoSAS1_LGT/MBrkLnSM_TopoSAS1_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 7DD054FD binarized successfully.
+
+[Message]Binarizing wor 5800C44F (/MAPS/BrickLane/BrickLane_Supermarket/MAP_TopoSAS/TopoSAS1/MBrkLnSM_TopoSAS1_VFX/MBrkLnSM_TopoSAS1_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C44F binarized successfully.
+
+[Message]Binarizing wor 1E00985C (/MAPS/BrickLane/BrickLane_Supermarket/MAP_TopoSAS/TopoSAS1/MBrkLnSM_TopoSAS1_LA/MBrkLnSM_TopoSAS1_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor 1E00985C binarized successfully.
+
+[Message]Binarizing wor 9D901008 (/MAPS/BrickLane/BrickLane_Supermarket/MAP_Missions/M02_HackSMcams/MBrkLnSM_M02_HackSMcams_RTC_Cine/MBrkLnSM_M02_SupermarketINT_Rats_RTC/MBrkLnSM_M02_SupermarketINT_Rats_RTC.wor)...
+[Message]0 errors, 0 warnings
+Wor 9D901008 binarized successfully.
+
+[Message]Binarizing wor 91D00733 (/MAPS/BrickLane/BrickLane_SupermarketInterior/MAP_Topo/MBrkLnSMin_Topo_SND/MBrkLnSMin_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D00733 binarized successfully.
+
+[Message]Binarizing wor ADD16C08 (/MAPS/BrickLane/BrickLane_SupermarketInterior/MAP_Topo/MBrkLnSMin_Topo_LA/MBrkLnSMin_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD16C08 binarized successfully.
+
+[Message]Binarizing wor 0E00EB36 (/MAPS/BrickLane/BrickLane_SupermarketInterior/MAP_Topo/MBrkLnSMin_Topo_LGT/MBrkLnSMin_Topo_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 0E00EB36 binarized successfully.
+
+[Message]Binarizing wor 06D10B5C (/MAPS/BrickLane/BrickLane_SupermarketInterior/MAP_Topo/MBrkLnSMin_Topo_VFX_Interior/MBrkLnSMin_Topo_VFX_Interior.wor)...
+[Message]0 errors, 0 warnings
+Wor 06D10B5C binarized successfully.
+
+[Message]Binarizing wor 65D20869 (/MAPS/BrickLane/BrickLane_SupermarketInterior/MAP_Topo/MBrkLnSMin_Topo_LD/MBrkLnSMin_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor 65D20869 binarized successfully.
+
+[Message]Binarizing wor 759007B4 (/MAPS/BrickLane/BrickLane_SupermarketInterior/MAP_TopoSAS/TopoSASS/MBrkLnSMin_TopoSASS_SND/MBrkLnSMin_TopoSASS_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 759007B4 binarized successfully.
+
+[Message]Binarizing wor 0E00EB5E (/MAPS/BrickLane/BrickLane_SupermarketInterior/MAP_TopoSAS/TopoSASS/MBrkLnSMin_TopoSASS_LGT/MBrkLnSMin_TopoSASS_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 0E00EB5E binarized successfully.
+
+[Message]Binarizing wor ADD171B3 (/MAPS/BrickLane/BrickLane_SupermarketInterior/MAP_TopoSAS/TopoSASS/MBrkLnSMin_TopoSASS_LA/MBrkLnSMin_TopoSASS_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD171B3 binarized successfully.
+
+[Message]Binarizing wor 5800C478 (/MAPS/BrickLane/BrickLane_SupermarketInterior/MAP_TopoSAS/TopoSASS/MBrkLnSMin_TopoSASS_VFX/MBrkLnSMin_TopoSASS_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C478 binarized successfully.
+
+[Message]Binarizing wor 65D20890 (/MAPS/BrickLane/BrickLane_SupermarketInterior/MAP_TopoSAS/TopoSASS/MBrkLnSMin_TopoSASS_LD/MBrkLnSMin_TopoSASS_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor 65D20890 binarized successfully.
+
+[Message]Binarizing wor 0E01CAD1 (/MAPS/BrickLane/BrickLane_Supermarket/MAP_TopoSAS/TopoSAS2/MBrkLnSM_TopoSAS2_LGT/MBrkLnSM_TopoSAS2_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 0E01CAD1 binarized successfully.
+
+[Message]Binarizing wor CE900A0D (/MAPS/BrickLane/BrickLane_Supermarket/MAP_TopoSAS/TopoSAS2/MBrkLnSM_TopoSAS2_SND/MBrkLnSM_TopoSAS2_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE900A0D binarized successfully.
+
+[Message]Binarizing wor ADD10F55 (/MAPS/BrickLane/BrickLane_Supermarket/MAP_TopoSAS/TopoSAS2/MBrkLnSM_TopoSAS2_LD/MBrkLnSM_TopoSAS2_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD10F55 binarized successfully.
+
+[Message]Binarizing wor 5800C452 (/MAPS/BrickLane/BrickLane_Supermarket/MAP_TopoSAS/TopoSAS2/MBrkLnSM_TopoSAS2_VFX/MBrkLnSM_TopoSAS2_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C452 binarized successfully.
+
+[Message]Binarizing wor 1E009859 (/MAPS/BrickLane/BrickLane_Supermarket/MAP_TopoSAS/TopoSAS2/MBrkLnSM_TopoSAS2_LA/MBrkLnSM_TopoSAS2_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor 1E009859 binarized successfully.
+
+[Message]Binarizing wor 0E01CC9E (/MAPS/BrickLane/BrickLane_Supermarket/MAP_TopoSAS/TopoSAS3/MBrkLnSM_TopoSAS3Bis_LGT/MSafeHouseSu_TopoSAS3Bis_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 0E01CC9E binarized successfully.
+
+[Message]Binarizing wor CE900A1E (/MAPS/BrickLane/BrickLane_Supermarket/MAP_TopoSAS/TopoSAS3/MBrkLnSM_TopoSAS3_SND/MBrkLnSM_TopoSAS3_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE900A1E binarized successfully.
+
+[Message]Binarizing wor ADD1718C (/MAPS/BrickLane/BrickLane_Supermarket/MAP_TopoSAS/TopoSAS3/MBrkLnSM_TopoSAS3_LD/MBrkLnSM_TopoSAS3_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD1718C binarized successfully.
+
+[Message]Binarizing wor 5800C455 (/MAPS/BrickLane/BrickLane_Supermarket/MAP_TopoSAS/TopoSAS3/MBrkLnSM_TopoSAS3_VFX/MBrkLnSM_TopoSAS3_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C455 binarized successfully.
+
+[Message]Binarizing wor 1E009856 (/MAPS/BrickLane/BrickLane_Supermarket/MAP_TopoSAS/TopoSAS3/MBrkLnSM_TopoSAS3__LA/MBrkLnSM_TopoSAS3__LA.wor)...
+[Message]0 errors, 0 warnings
+Wor 1E009856 binarized successfully.
+
+[Message]Binarizing wor ADD120DD (/MAPS/BrickLane/BrickLane_Supermarket/MAP_Missions/M08_RavensFlat/MBrkLnSM_M08_RavensFlat_LD/MBrkLnSM_M08_RavensFlat_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD120DD binarized successfully.
+
+[Message]Binarizing wor CE901817 (/MAPS/BrickLane/BrickLane_Supermarket/MAP_Missions/M11_BringFuel/MBrkLnSM_M11_BringFuel_SND/MBrkLnSM_M11_BringFuel_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor CE901817 binarized successfully.
+
+[Message]Binarizing wor ADD1210E (/MAPS/BrickLane/BrickLane_Supermarket/MAP_Missions/M11_BringFuel/MBrkLnSM_M11_BringFuel_LD/MBrkLnSM_M11_BringFuel_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD1210E binarized successfully.
+
+[Message]Binarizing wor 65D204E9 (/MAPS/BrickLane/BrickLane_Supermarket/MAP_Revisit/DAYNIGHT/MBrkLnSM_Revisit.wor)...
+[Message]0 errors, 0 warnings
+Wor 65D204E9 binarized successfully.
+
+[Message]Binarizing wor 91D00753 (/MAPS/Thames/Thames_SECTO/MThaTower_SECTO.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D00753 binarized successfully.
+
+[Message]Binarizing wor 7BD011ED (/MAPS/Thames/Thames_TowerCastleExt/MAP_Topo/MThaToCE_Topo_LA_Background/MThaToCE_Topo_LA_Background.wor)...
+[Message]0 errors, 0 warnings
+Wor 7BD011ED binarized successfully.
+
+[Message]Binarizing wor 91D02110 (/MAPS/Thames/Thames_Common/Thames_Common_SND/Thames_Common_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D02110 binarized successfully.
+
+[Message]Binarizing wor 06D110B9 (/MAPS/Thames/Thames_Common/Thames_Common_VFX/Thames_Common_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 06D110B9 binarized successfully.
+
+[Message]Binarizing wor 9D903862 (/MAPS/Thames/Thames_Missions/CThaToCI_RTC_TOWER_CINE/CThaToCI_RTC_TowerIN_Rats_CINE/CThaToCI_RTC_TowerIN_Rats_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor 9D903862 binarized successfully.
+
+[Message]Binarizing wor E4200574 (/MAPS/Thames/Thames_Missions/Thames_Mission_Gen/Thames_Mission_Gen.wor)...
+[Message]0 errors, 0 warnings
+Wor E4200574 binarized successfully.
+
+[Message]Binarizing wor ADD0983C (/MAPS/Thames/Thames_Common/Thames_Common.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD0983C binarized successfully.
+
+[Message]Binarizing wor 0E01E835 (/MAPS/Thames/Thames_Common/Thames_Common_LGT_M10/Thames_Common_LGT_M10.wor)...
+[Message]0 errors, 0 warnings
+Wor 0E01E835 binarized successfully.
+
+[Message]Binarizing wor A6D0329C (/08 Cinematics/VIDEOS/Thames/TowerLondon/FailedExtraction_Video/FailedExtraction_Video.wor)...
+[Message]0 errors, 0 warnings
+Wor A6D0329C binarized successfully.
+
+[Message]Binarizing wor B7D1329E (/MAPS/Thames/Thames_Missions/CThaToCI_RTC_TOWER_CINE/CThaToCI_RTC_TOWER_CROWS_CINE/CThaToCI_RTC_TOWER_CROWS_CINE.wor)...
+[Message]0 errors, 0 warnings
+Wor B7D1329E binarized successfully.
+
+[Message]Binarizing wor 91D01DDD (/MAPS/Thames/Thames_Missions/M10_CallForEvac/MTha_M10_CallForEvac_SND/MTha_M10_CallForEvac_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D01DDD binarized successfully.
+
+[Message]Binarizing wor ADD11A9D (/MAPS/Thames/Thames_Missions/M10_CallForEvac/MThaTo_M10_CallForEvac_LD/MThaTo_M10_CallForEvac_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11A9D binarized successfully.
+
+[Message]Binarizing wor E3D01272 (/MAPS/Thames/Thames_TowerBeach/MAP_Topo/MThaToBe_Topo_LA/MThaToBe_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor E3D01272 binarized successfully.
+
+[Message]Binarizing wor 4B90013E (/MAPS/Thames/Thames_TowerBeach/MAP_Topo/MThaToBe_Topo_VFX_Common/MThaToBe_Topo_VFX_Common.wor)...
+[Message]0 errors, 0 warnings
+Wor 4B90013E binarized successfully.
+
+[Message]Binarizing wor 5800B420 (/MAPS/Thames/Thames_TowerBeach/MAP_Topo/MThaToBe_Topo_VFX_DAY/MThaToBe_Topo_VFX_DAY.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800B420 binarized successfully.
+
+[Message]Binarizing wor 0E00EA48 (/MAPS/Thames/Thames_TowerBeach/MAP_Topo/MThaToBe_Topo_LGT/MThaToBe_Topo_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 0E00EA48 binarized successfully.
+
+[Message]Binarizing wor 91D0074D (/MAPS/Thames/Thames_TowerBeach/MAP_Topo/MThaToBe_Topo_SND_Day/MThaToBe_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D0074D binarized successfully.
+
+[Message]Binarizing wor AED034F4 (/MAPS/Thames/Thames_TowerBeach/MAP_Topo/MThaToBe_Topo_LD/MThaToBe_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor AED034F4 binarized successfully.
+
+[Message]Binarizing wor ADD12C0C (/MAPS/Thames/Thames_TowerCastleInt/MAP_Topo/MThaToCI_Topo_LA/MThaToCI_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD12C0C binarized successfully.
+
+[Message]Binarizing wor 0E00EA64 (/MAPS/Thames/Thames_TowerCastleInt/MAP_Topo/MThaToCI_Topo_LGT/MThaToCI_Topo_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 0E00EA64 binarized successfully.
+
+[Message]Binarizing wor 5800B0C4 (/MAPS/Thames/Thames_TowerCastleInt/MAP_Topo/MThaToCI_Topo_VFX/MThaToCI_Topo_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800B0C4 binarized successfully.
+
+[Message]Binarizing wor 91D01D79 (/MAPS/Thames/Thames_TowerCastleInt/MAP_Topo/MThaToCI_Topo_SND/MThaToCI_Topo_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D01D79 binarized successfully.
+
+[Message]Binarizing wor ADD12C36 (/MAPS/Thames/Thames_TowerCastleInt/MAP_Topo/MThaToCI_Topo_LD/MThaToCI_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD12C36 binarized successfully.
+
+[Message]Binarizing wor ADD12C05 (/MAPS/Thames/Thames_TowerCastleExt/MAP_Topo/MThaToCE_Topo_LA/MThaToCE_Topo_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD12C05 binarized successfully.
+
+[Message]Binarizing wor 0E00E852 (/MAPS/Thames/Thames_TowerCastleExt/MAP_Topo/MThaToCE_Topo_LGT/MThaToCE_Topo_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 0E00E852 binarized successfully.
+
+[Message]Binarizing wor 5800B41D (/MAPS/Thames/Thames_TowerCastleExt/MAP_Topo/MThaToCE_Topo_VFX_DAY/MThaToCE_Topo_VFX_DAY.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800B41D binarized successfully.
+
+[Message]Binarizing wor 5800B3C8 (/MAPS/Thames/Thames_TowerCastleExt/MAP_Topo/MThaToCE_Topo_VFX_Common/MThaToCE_Topo_VFX_Common.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800B3C8 binarized successfully.
+
+[Message]Binarizing wor 91D00750 (/MAPS/Thames/Thames_TowerCastleExt/MAP_Topo/MThaToCE_Topo_SND/MThaToCE_Topo_SND_Day.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D00750 binarized successfully.
+
+[Message]Binarizing wor ADD12C11 (/MAPS/Thames/Thames_TowerCastleExt/MAP_Topo/MThaToCE_Topo_LD/MThaToCE_Topo_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD12C11 binarized successfully.
+
+[Message]Binarizing wor E3D0102B (/MAPS/Thames/Thames_TowerCastleExt/MAP_TopoSAS/TopoSASS/MThaToCE_TopoSASS_LA/MThaToCE_TopoSASS_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor E3D0102B binarized successfully.
+
+[Message]Binarizing wor 0E00EA7A (/MAPS/Thames/Thames_TowerCastleExt/MAP_TopoSAS/TopoSASS/MThaToCE_TopoSASS_LGT/MThaToCE_TopoSASS_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 0E00EA7A binarized successfully.
+
+[Message]Binarizing wor 5800C4BA (/MAPS/Thames/Thames_TowerCastleExt/MAP_TopoSAS/TopoSASS/MThaToCE_TopoSASS_VFX/MThaToCE_TopoSASS_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C4BA binarized successfully.
+
+[Message]Binarizing wor ADD18F6A (/MAPS/Thames/Thames_TowerCastleExt/MAP_TopoSAS/TopoSASS/MThaToCE_TopoSASS_LD/MThaToCE_TopoSASS_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD18F6A binarized successfully.
+
+[Message]Binarizing wor 0E00EA6E (/MAPS/Thames/Thames_TowerBeach/MAP_TopoSAS/TopoSAS1/MThaToBe_TopoSAS1_LGT/MThaToBe_TopoSAS1_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 0E00EA6E binarized successfully.
+
+[Message]Binarizing wor E3D0149A (/MAPS/Thames/Thames_TowerBeach/MAP_TopoSAS/TopoSAS1/MThaToBe_TopoSAS1_LA/MThaToBe_TopoSAS1_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor E3D0149A binarized successfully.
+
+[Message]Binarizing wor 91D01FE5 (/MAPS/Thames/Thames_TowerBeach/MAP_TopoSAS/TopoSAS1/MThaToBe_TopoSAS1_SND/MThaToBe_TopoSAS1_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D01FE5 binarized successfully.
+
+[Message]Binarizing wor 5800B5A4 (/MAPS/Thames/Thames_TowerBeach/MAP_TopoSAS/TopoSAS1/MThaToBe_TopoSAS1_VFX_Common/MThaToBe_TopoSAS1_VFX_Common.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800B5A4 binarized successfully.
+
+[Message]Binarizing wor ADD10E3B (/MAPS/Thames/Thames_TowerBeach/MAP_TopoSAS/TopoSAS1/MThaToBe_TopoSAS1_LD/MThaToBe_TopoSAS1_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD10E3B binarized successfully.
+
+[Message]Binarizing wor 0E01E838 (/MAPS/Thames/Thames_Common/Thames_Common_LGT_M17/Thames_Common_LGT_M17.wor)...
+[Message]0 errors, 0 warnings
+Wor 0E01E838 binarized successfully.
+
+[Message]Binarizing wor 5800C739 (/08 Cinematics/OUTRO/CThaToCI_TOWER_EvacFINAL_VFX/CThaToCI_TOWER_EvacFINAL_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800C739 binarized successfully.
+
+[Message]Binarizing wor 87D11E44 (/08 Cinematics/OUTRO/CThaToCI_TOWER_EvacFINAL/CThaToCI_TOWER_EvacFINAL.wor)...
+[Message]0 errors, 0 warnings
+Wor 87D11E44 binarized successfully.
+
+[Message]Binarizing wor 91D024CA (/MAPS/Thames/Thames_Missions/M17_RunToEvac/MThaTo_M17_RunToEvac_SND/MThaTo_M17_RunToEvac_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 91D024CA binarized successfully.
+
+[Message]Binarizing wor ADD11B8D (/MAPS/Thames/Thames_Missions/M17_RunToEvac/MThaTo_M17_RunToEvac_LD/MThaTo_M17_RunToEvac_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD11B8D binarized successfully.
+
+[Message]Binarizing wor 0E01DAD3 (/MAPS/Thames/Thames_TowerBeach/MAP_Topo/MThaToBe_Topo_LGT_M17/MThaToBe_Topo_LGT_M17.wor)...
+[Message]0 errors, 0 warnings
+Wor 0E01DAD3 binarized successfully.
+
+[Message]Binarizing wor 1D905152 (/MAPS/Thames/Thames_TowerBeach/MAP_Topo/MThaToBe_Topo_LGT_TempAdd/MThaToBe_Topo_LGT_TempAdd.wor)...
+[Message]0 errors, 0 warnings
+Wor 1D905152 binarized successfully.
+
+[Message]Binarizing wor 5800B414 (/MAPS/Thames/Thames_TowerBeach/MAP_Topo/MThaToBe_Topo_VFX_NIGHT/MThaToBe_Topo_VFX_NIGHT.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800B414 binarized successfully.
+
+[Message]Binarizing wor 5800B417 (/MAPS/Thames/Thames_TowerCastleExt/MAP_Topo/MThaToCE_Topo_VFX_NIGHT/MThaToCE_Topo_VFX_NIGHT.wor)...
+[Message]0 errors, 0 warnings
+Wor 5800B417 binarized successfully.
+
+[Message]Binarizing wor 0E01E043 (/MAPS/Thames/Thames_TowerCastleExt/MAP_Topo/MThaToCE_Topo_LGT_M17/MThaToCE_Topo_LGT_M17.wor)...
+[Message]0 errors, 0 warnings
+Wor 0E01E043 binarized successfully.
+
+[Message]Binarizing wor ADD19DC4 (/MAPS/Thames/Thames_Missions/Revisit/MThaTo_Revisit_DAYNIGHT_LD/MThaToBe_Revisit_DAYNIGHT_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD19DC4 binarized successfully.
+
+[Message]Binarizing wor 38D026CD (/07 Levels/_kit/_kit_NPC/_kit_Zombie_MP_Cop_Puppet/_kit_Zombie_MP_Cop_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D026CD binarized successfully.
+
+[Message]Binarizing wor 38D026B8 (/07 Levels/_kit/_kit_NPC/_kit_Zombie_MP_Chav_Puppet/_kit_Zombie_MP_Chav_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D026B8 binarized successfully.
+
+[Message]Binarizing wor 38D026A3 (/07 Levels/_kit/_kit_NPC/_kit_Zombie_MP_Casual_Puppet/_kit_Zombie_MP_Casual_Puppet.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D026A3 binarized successfully.
+
+[Message]Binarizing wor 21901E5D (/MAPS/_Multiplayer_/RoofTop/MP_RoofTop_LD/rooftop.wor)...
+[Message]0 errors, 0 warnings
+Wor 21901E5D binarized successfully.
+
+[Message]Binarizing wor B59032CC (/MAPS/_Multiplayer_/RoofTop/MP_RoofTop_VFX/MP_RoofTop_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor B59032CC binarized successfully.
+
+[Message]Binarizing wor B59032BC (/MAPS/_Multiplayer_/RoofTop/MP_RoofTop_LGT_Day/MP_RoofTop_LGT_Day.wor)...
+[Message]0 errors, 0 warnings
+Wor B59032BC binarized successfully.
+
+[Message]Binarizing wor 0AF00796 (/MAPS/_Multiplayer_/RoofTop/MP_RoofTop_SND/MP_RoofTop_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor 0AF00796 binarized successfully.
+
+[Message]Binarizing wor B590327F (/MAPS/_Multiplayer_/RoofTop/MP_RoofTop_LA_Background/MP_RoofTop_LA_Background.wor)...
+[Message]0 errors, 0 warnings
+Wor B590327F binarized successfully.
+
+[Message]Binarizing wor B5902ED6 (/MAPS/_Multiplayer_/RoofTop/MP_RoofTop_LA/MP_RoofTop_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor B5902ED6 binarized successfully.
+
+[Message]Binarizing wor 2900022A (/BANK_Characters/ZU_Multiplayer/Ch_Gen_MutiPlayer.wor)...
+[Message]0 errors, 0 warnings
+Wor 2900022A binarized successfully.
+
+[Message]Binarizing wor D7D00CC0 (/MAPS/_Multiplayer_/MilitaryCamp/MP_MilitaryCamp_LD_v2/MP_MilitaryCamp_LD_v2.wor)...
+[Message]0 errors, 0 warnings
+Wor D7D00CC0 binarized successfully.
+
+[Message]Binarizing wor 1B00EAFA (/MAPS/_Multiplayer_/MilitaryCamp/MP_MilitaryCamp_VFX/MP_MilitaryCamp_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 1B00EAFA binarized successfully.
+
+[Message]Binarizing wor 1B00EAC7 (/MAPS/_Multiplayer_/MilitaryCamp/MP_MilitaryCamp_LA_Background/MP_MilitaryCamp_LA_Background.wor)...
+[Message]0 errors, 0 warnings
+Wor 1B00EAC7 binarized successfully.
+
+[Message]Binarizing wor CED0717A (/MAPS/_Multiplayer_/MilitaryCamp/MP_MilitaryCamp_LGT/MP_MilitaryCamp_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor CED0717A binarized successfully.
+
+[Message]Binarizing wor 1B00F221 (/MAPS/_Multiplayer_/MilitaryCamp/MP_MilitaryCamp_LA/MP_MilitaryCamp_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor 1B00F221 binarized successfully.
+
+[Message]Binarizing wor ADD18935 (/MAPS/_Multiplayer_/MilitaryCamp/MP_MilitaryCamp_SND/MP_MilitaryCamp_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD18935 binarized successfully.
+
+[Message]Binarizing wor 7D900035 (/MAPS/_Multiplayer_/Subway/MP_SafeHouse/MP_SafeHouse.wor)...
+[Message]0 errors, 0 warnings
+Wor 7D900035 binarized successfully.
+
+[Message]Binarizing wor 1B011512 (/MAPS/_Multiplayer_/Subway/MP_Subway_VFX/MP_Subway_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 1B011512 binarized successfully.
+
+[Message]Binarizing wor 1B00E4D7 (/MAPS/_Multiplayer_/Subway/MP_Subway_LGT/MP_Subway_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 1B00E4D7 binarized successfully.
+
+[Message]Binarizing wor 1B00E4D4 (/MAPS/_Multiplayer_/Subway/MP_Subway_LA/MP_Subway_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor 1B00E4D4 binarized successfully.
+
+[Message]Binarizing wor ADD18944 (/MAPS/_Multiplayer_/Subway/MP_Subway_SND/MP_Subway_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD18944 binarized successfully.
+
+[Message]Binarizing wor E1900063 (/MAPS/_Multiplayer_/Bunker/MP_Bunker_LD_MP/MP_Bunker_LD_MP.wor)...
+[Message]0 errors, 0 warnings
+Wor E1900063 binarized successfully.
+
+[Message]Binarizing wor CED0894E (/MAPS/_Multiplayer_/Bunker/MP_Bunker_LGT/MP_Bunker_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor CED0894E binarized successfully.
+
+[Message]Binarizing wor 1B016B00 (/MAPS/_Multiplayer_/Bunker/MP_Bunker_VFX/MP_Bunker_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 1B016B00 binarized successfully.
+
+[Message]Binarizing wor CED08766 (/MAPS/_Multiplayer_/Bunker/MP_Bunker_LA/MP_Bunker_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor CED08766 binarized successfully.
+
+[Message]Binarizing wor ADD18941 (/MAPS/_Multiplayer_/Bunker/MP_Bunker_SND/MP_Bunker_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor ADD18941 binarized successfully.
+
+[Message]Binarizing wor B1D01C91 (/MAPS/_Multiplayer_/Stadium/MP_Stadium_LD/MP_Stadium_LD.wor)...
+[Message]0 errors, 0 warnings
+Wor B1D01C91 binarized successfully.
+
+[Message]Binarizing wor 1B012055 (/MAPS/_Multiplayer_/Stadium/MP_Stadium_LA_Background/MP_Stadium_LA_Background.wor)...
+[Message]0 errors, 0 warnings
+Wor 1B012055 binarized successfully.
+
+[Message]Binarizing wor 1B011D4D (/MAPS/_Multiplayer_/Stadium/MP_Stadium_LGT/MP_Stadium_LGT.wor)...
+[Message]0 errors, 0 warnings
+Wor 1B011D4D binarized successfully.
+
+[Message]Binarizing wor 1B01283B (/MAPS/_Multiplayer_/Stadium/MP_Stadium_VFX/MP_Stadium_VFX.wor)...
+[Message]0 errors, 0 warnings
+Wor 1B01283B binarized successfully.
+
+[Message]Binarizing wor 1B011D3C (/MAPS/_Multiplayer_/Stadium/MP_Stadium_LA/MP_Stadium_LA.wor)...
+[Message]0 errors, 0 warnings
+Wor 1B011D3C binarized successfully.
+
+[Message]Binarizing wor C2D04F2C (/MAPS/_Multiplayer_/Stadium/MP_Stadium_SND/MP_Stadium_SND.wor)...
+[Message]0 errors, 0 warnings
+Wor C2D04F2C binarized successfully.
+
+[Message]Binarizing wor 38D0285A (/07 Levels/_kit/_kit_PC/_kit_PC_SoundBank_Female_01/_kit_PC_SoundBank_Female_01.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D0285A binarized successfully.
+
+[Message]Binarizing wor 38D0285E (/07 Levels/_kit/_kit_PC/_kit_PC_SoundBank_Female_02/_kit_PC_SoundBank_Female_02.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D0285E binarized successfully.
+
+[Message]Binarizing wor 38D02862 (/07 Levels/_kit/_kit_PC/_kit_PC_SoundBank_Female_03/_kit_PC_SoundBank_Female_03.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D02862 binarized successfully.
+
+[Message]Binarizing wor 38D0284C (/07 Levels/_kit/_kit_PC/_kit_PC_SoundBank_Male_01/_kit_PC_SoundBank_Male_01.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D0284C binarized successfully.
+
+[Message]Binarizing wor 38D02852 (/07 Levels/_kit/_kit_PC/_kit_PC_SoundBank_Male_02/_kit_PC_SoundBank_Male_02.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D02852 binarized successfully.
+
+[Message]Binarizing wor 38D02856 (/07 Levels/_kit/_kit_PC/_kit_PC_SoundBank_Male_03/_kit_PC_SoundBank_Male_03.wor)...
+[Message]0 errors, 0 warnings
+Wor 38D02856 binarized successfully.
