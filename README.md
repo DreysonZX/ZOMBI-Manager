@@ -6,7 +6,7 @@ If you need help on what .bfz's contain which. There is a text file in the main 
 # Get started
 To get started, you'll need python3 and some dependencies, here are the things my tool needs (I might've missed a few, been awhile)
 
-PySide6 python-lzo
+PySide6 python-lzo Pillow numpy
 
 Next, simply just download the repo, go to the ZOMBIManager folder, and run the "zombiManager.py". It should open up a nice menu
 
