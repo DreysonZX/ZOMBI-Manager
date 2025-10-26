@@ -211,39 +211,62 @@ class ZombiManager(QMainWindow):
 
     def populate_tree(self):
         self.tree.clear()
-        if not self.archive: return
+        if not self.archive:
+            return
+
         root_map: Dict[str, QTreeWidgetItem] = {}
+        grouped: Dict[str, list] = {}
+
+        # Normalize the path
         for entry in self.archive.file_entries:
             path = entry.name.replace("\\", "/").strip("/")
+            grouped.setdefault(path, []).append(entry)
+
+        for path, entries in grouped.items():
             parts = [p for p in path.split("/") if p]
-            if not parts: continue
+            if not parts:
+                continue
+
             parent_item, cur_map = None, root_map
             for i, part in enumerate(parts):
                 is_leaf = (i == len(parts) - 1)
-                key = (id(parent_item), part) if parent_item else ("root", part)
+                key = (id(parent_item), part)
                 if key not in cur_map:
-                    #item = QTreeWidgetItem([part])
                     if is_leaf:
-                        size_str = f"{entry.size:,}"  # formatted with commas
-                        ext = os.path.splitext(entry.name)[1].lower() or "-"
+                        # This will be the base entry, if theres multiple, it will be the parent
+                        size_str = f"{entries[0].size:,}"
+                        ext = os.path.splitext(entries[0].name)[1].lower() or "-"
                         cols = [part, size_str, ext]
                     else:
                         cols = [part, "", ""]
                     item = QTreeWidgetItem(cols)
-
                     (self.tree.addTopLevelItem if parent_item is None else parent_item.addChild)(item)
                     cur_map[key] = item
+
                 item = cur_map[key]
-                if is_leaf: item.setData(0, Qt.UserRole, entry)
                 parent_item = item
-        
+
+                # Make sub items for duplicates
+                if is_leaf:
+                    if len(entries) == 1:
+                        item.setData(0, Qt.UserRole, entries[0])
+                    else:
+                        for idx, dup_entry in enumerate(entries):
+                            sub = QTreeWidgetItem([
+                                f"[Variant #{idx+1}]",
+                                f"{dup_entry.size:,}",
+                                os.path.splitext(dup_entry.name)[1].lower() or "-"
+                            ])
+                            sub.setData(0, Qt.UserRole, dup_entry)
+                            item.addChild(sub)
+
+        # Size it
         self.tree.setColumnWidth(0, 400)
         self.tree.setColumnWidth(1, 100)
         self.tree.setColumnWidth(2, 100)
         self.tree.sortItems(0, Qt.AscendingOrder)
-
         self.tree.expandToDepth(2)
-
+        
     def on_item_clicked(self, item: QTreeWidgetItem, col: int):
         entry = item.data(0, Qt.UserRole)
         if not entry or not self.archive: self.preview.clear(); return
